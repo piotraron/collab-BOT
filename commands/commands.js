@@ -16,7 +16,8 @@ module.exports = {
                 { name: '!sales', value: `Detailed sales stats`},
                 { name: '!floor', value: `Floor price`},
                 { name: '!collectors', value: `Number of unique owners`},
-                { name: `!${slug} NUMBER`, value: `Detailed information about Your ${slug}`}
+                { name: `!${slug} NUMBER`, value: `Detailed information about Your ${slug}`},
+                { name: '!auction', value: `Auctions explained`}
 
 
             )
