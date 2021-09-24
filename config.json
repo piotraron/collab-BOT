@@ -1,5 +1,6 @@
 {
 	"prefix": "!",
   "openseaAssetUrl": "https://api.opensea.io/api/v1/asset",
-  "openseaEventsUrl": "https://api.opensea.io/api/v1/events"
+  "openseaEventsUrl": "https://api.opensea.io/api/v1/events",
+  "ethPublicRpcUrl": "https://main-light.eth.linkpool.io/"
 }
