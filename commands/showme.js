@@ -31,14 +31,14 @@ const sendShowMe = async(message, address) => {
       })
       .then((metadata) => {
 
+        let user = message.content;
         const embedMsg = new Discord.MessageEmbed()
         // const firstEmbed = new Discord.MessageEmbed()
         .setColor('#581845')
         // .setTitle(`List of iams owned by [${args[0]}](https://opensea.io/${args[0]})\n\n`)
         // .setURL(`https://opensea.io/${args[0]}`)
-        .setDescription(`List of iams owned by [${address}](https://opensea.io/${address}) `)
-      
-        // message.channel.send(firstEmbed)
+
+        .setDescription(`List of iams owned by [${user.slice(8)}](https://opensea.io/${address}) `)
 
         metadata.assets.forEach(function(asset){
 
