@@ -17,7 +17,8 @@ module.exports = {
                 { name: '!floor', value: `Floor price`},
                 { name: '!collectors', value: `Number of unique owners`},
                 { name: `!${slug} NUMBER`, value: `Detailed information about Your ${slug}`},
-                { name: '!auction', value: `Auctions explained`}
+                { name: '!auction', value: `Auctions explained`},
+                { name: "!trait VALUE", value: `Filter for trait VALUE. Shows some random selection.`}
 
 
             )
