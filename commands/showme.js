@@ -31,27 +31,25 @@ const sendShowMe = async(message, address) => {
       })
       .then((metadata) => {
 
-          const firstEmbed = new Discord.MessageEmbed()
-          .setColor('#581845')
-          // .setTitle(`some title for now`)
-          // .setURL(`https://opensea.io/${args[0]}`)
-          .setDescription(`List of iams owned by [${address}](https://opensea.io/${address}) `)
-        
-          message.channel.send(firstEmbed)
+        const embedMsg = new Discord.MessageEmbed()
+        // const firstEmbed = new Discord.MessageEmbed()
+        .setColor('#581845')
+        // .setTitle(`List of iams owned by [${args[0]}](https://opensea.io/${args[0]})\n\n`)
+        // .setURL(`https://opensea.io/${args[0]}`)
+        .setDescription(`List of iams owned by [${address}](https://opensea.io/${address}) `)
+      
+        // message.channel.send(firstEmbed)
 
-          metadata.assets.forEach(function(asset){
-          const embedMsg = new Discord.MessageEmbed()
+        metadata.assets.forEach(function(asset){
 
-            .setColor('#581845')
-            .setAuthor(`${asset.name}`, `${asset.image_thumbnail_url}`, `${asset.permalink}`)
-            // .setTitle(`\u200B\`)
-            // .setURL(asset.permalink)
-            // .setDescription(`[${asset.name}](${asset.permalink})`)
-            // .setThumbnail(asset.image_thumbnail_url)
+          embedMsg.addFields(
+            {name: `\u200B`, 
+                value: `[${asset.name}](${asset.permalink})`, inline: false}
 
-          message.channel.send(embedMsg);
+             )
           })
-
+          
+          message.channel.send(embedMsg);
       })
       .catch(error => message.channel.send(error.message));
 }
