@@ -57,7 +57,7 @@ const sendShowMe = async(message, address) => {
 }
 
 module.exports = {
-	name: "showme",
+	name: "scan",
 	execute(message, args) {
     if (!args.length) {
       return message.channel.send(`You didn't provide a right address, ${message.author}!`);
