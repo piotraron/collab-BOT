@@ -76,5 +76,9 @@ module.exports = {
         sendShowMe(message, address).catch(error => message.channel.send(error.message));
       }
     }
+    else{
+      console.log(message.channel)
+      return message.channel.send(`Please head to <#${process.env.BOT_CHANNEL_ID} channel to use that command ${message.author}`);
+    }
 	},
 };

@@ -4,7 +4,7 @@ const Discord = require('discord.js');
 module.exports = {
 	name: "trait",
 	execute(message, args) {
-        if(message.channel.id === '878116861441626155' || message.channel.id === '878360885951877171'){
+        if(message.channel.id === `${process.env.BOT_CHANNEL_ID}`){
             if (!args.length) {
                 return message.channel.send(`You didn't provide a trait value, ${message.author}!`);
             }
@@ -77,5 +77,9 @@ module.exports = {
                 message.channel.send(embedMsg);
             })
         }
+        else{
+            console.log(message.channel)
+            return message.channel.send(`Please head to <#${process.env.BOT_CHANNEL_ID} channel to use that command ${message.author}`);
+          }
 	},
 };
