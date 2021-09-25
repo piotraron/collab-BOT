@@ -49,6 +49,10 @@
     "VOICE_CHANNEL_TOTALSALES": {
       "description": "ID of the second discord voice channel to display total sales",
       "required": true
+    },
+    "BOT_CHANNEL_ID": {
+      "description": "ID of the channel to which bot can post trait and showme",
+      "required": true
     }
   },
   "image": "heroku/nodejs",

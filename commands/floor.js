@@ -17,9 +17,9 @@ const fetchTokenId = async () => {
 
   let res = await fetch(url, settings);
   if (res.status == 404 || res.status == 400)
-  {
+    {
     throw new Error("Token id doesn't exist.");
-  }
+ }
   if (res.status != 200)
   {
     throw new Error(`Couldn't retrieve metadata: ${res.statusText}`);

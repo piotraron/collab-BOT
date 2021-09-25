@@ -57,21 +57,22 @@ const sendShowMe = async(message, address) => {
 module.exports = {
 	name: "showme",
 	execute(message, args) {
-    if (!args.length) {
-      return message.channel.send(`You didn't provide a right address, ${message.author}!`);
-    }
+    if(message.channel.id === `${process.env.BOT_CHANNEL_ID}`){
+      if (!args.length) {
+        return message.channel.send(`You didn't provide a right address, ${message.author}!`);
+      }
 
-    let address = args[0]
-    if (args[0].includes(".eth")) {
-      address = w3_eth.ens.getAddress(args[0])
-        .then(res => {
-          sendShowMe(message, res).catch(error => message.channel.send(error.message));
-        })
-        .catch(error => message.channel.send(error.message));
+      let address = args[0]
+      if (args[0].includes(".eth")) {
+        address = w3_eth.ens.getAddress(args[0])
+          .then(res => {
+            sendShowMe(message, res).catch(error => message.channel.send(error.message));
+          })
+          .catch(error => message.channel.send(error.message));
+      }
+      else {
+        sendShowMe(message, address).catch(error => message.channel.send(error.message));
+      }
     }
-    else {
-      sendShowMe(message, address).catch(error => message.channel.send(error.message));
-    }
-    
 	},
 };
