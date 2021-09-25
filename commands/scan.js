@@ -30,12 +30,12 @@ const sendShowMe = async(message, address) => {
         
       })
       .then((metadata) => {
-
+          let user = message.content;
           const firstEmbed = new Discord.MessageEmbed()
           .setColor('#581845')
           // .setTitle(`some title for now`)
           // .setURL(`https://opensea.io/${args[0]}`)
-          .setDescription(`List of iams owned by [${address}](https://opensea.io/${address}) `)
+          .setDescription(`List of iams owned by [${user.slice(6)}](https://opensea.io/${address}) `)
         
           message.channel.send(firstEmbed)
 
