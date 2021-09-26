@@ -12,7 +12,7 @@ module.exports = {
     client.user.setActivity("!commands", {
       type: "LISTENING",
 
-    });
+    })
 
     let url = `${openseaAssetUrl}/${process.env.CONTRACT_ADDRESS}/${process.env.SAMPLE_TOKEN_ID}`;
     let settings = { 
