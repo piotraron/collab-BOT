@@ -14503,14 +14503,6 @@
       "traits": [
         {
           "trait_type": "Quirk",
-          "value": "Nickname",
-          "display_type": null,
-          "max_value": null,
-          "trait_count": 101,
-          "order": null
-        },
-        {
-          "trait_type": "Quirk",
           "value": "Edible",
           "display_type": null,
           "max_value": null,
@@ -14539,6 +14531,14 @@
           "display_type": null,
           "max_value": null,
           "trait_count": 46,
+          "order": null
+        },
+        {
+          "trait_type": "Quirk",
+          "value": "Nickname",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 101,
           "order": null
         }
       ],
@@ -14777,14 +14777,6 @@
       "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380832147341574145",
       "traits": [
         {
-          "trait_type": "Accessory",
-          "value": "Tie",
-          "display_type": null,
-          "max_value": null,
-          "trait_count": 8,
-          "order": null
-        },
-        {
           "trait_type": "Class",
           "value": "Human",
           "display_type": null,
@@ -14814,6 +14806,14 @@
           "display_type": null,
           "max_value": null,
           "trait_count": 15,
+          "order": null
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Tie",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 8,
           "order": null
         },
         {
@@ -16561,6 +16561,22 @@
       "traits": [
         {
           "trait_type": "Quirk",
+          "value": "Animated",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 6,
+          "order": null
+        },
+        {
+          "trait_type": "Quirk",
+          "value": "Nickname",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 101,
+          "order": null
+        },
+        {
+          "trait_type": "Quirk",
           "value": "Glowing",
           "display_type": null,
           "max_value": null,
@@ -16597,22 +16613,6 @@
           "display_type": null,
           "max_value": null,
           "trait_count": 48,
-          "order": null
-        },
-        {
-          "trait_type": "Quirk",
-          "value": "Animated",
-          "display_type": null,
-          "max_value": null,
-          "trait_count": 6,
-          "order": null
-        },
-        {
-          "trait_type": "Quirk",
-          "value": "Nickname",
-          "display_type": null,
-          "max_value": null,
-          "trait_count": 101,
           "order": null
         },
         {
@@ -18753,19 +18753,19 @@
       "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380999273108996097",
       "traits": [
         {
-          "trait_type": "Class",
-          "value": "Human",
-          "display_type": null,
-          "max_value": null,
-          "trait_count": 124,
-          "order": null
-        },
-        {
           "trait_type": "Accessory",
           "value": "Tie",
           "display_type": null,
           "max_value": null,
           "trait_count": 8,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Human",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 124,
           "order": null
         }
       ],
@@ -21445,5 +21445,137 @@
         "created_date": "2021-09-25T23:03:53.921367",
         "quantity": "1"
       }
+    },
+    "255": {
+      "token_id": "42660166192846309205341875090787641074981786816011313725882381038855527596033",
+      "image_url": "https://lh3.googleusercontent.com/PnmSurtR9lbPADdk54AnlyVmiPK6HtnZlAJ2DNhey6Yx7IgXEY8o-QacebLqVCHC0ukI2498IHkjemSjmq06F1gxa6iTUmJKnjNWEw",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/PnmSurtR9lbPADdk54AnlyVmiPK6HtnZlAJ2DNhey6Yx7IgXEY8o-QacebLqVCHC0ukI2498IHkjemSjmq06F1gxa6iTUmJKnjNWEw=s128",
+      "animation_url": null,
+      "name": "iAM #255",
+      "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381038855527596033",
+      "traits": [
+        {
+          "trait_type": "Class",
+          "value": "Human",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 124,
+          "order": null
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Hoodie",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 10,
+          "order": null
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Shades",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 38,
+          "order": null
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Beard",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 38,
+          "order": null
+        }
+      ],
+      "last_sale": {
+        "asset": {
+          "token_id": "42660166192846309205341875090787641074981786816011313725882381038855527596033",
+          "decimals": null
+        },
+        "asset_bundle": null,
+        "event_type": "successful",
+        "event_timestamp": "2021-09-26T21:44:34",
+        "auction_type": null,
+        "total_price": "50000000000000000",
+        "payment_token": {
+          "id": 1,
+          "symbol": "ETH",
+          "address": "0x0000000000000000000000000000000000000000",
+          "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+          "name": "Ether",
+          "decimals": 18,
+          "eth_price": "1.000000000000000",
+          "usd_price": "3075.309999999999945000"
+        },
+        "transaction": {
+          "block_hash": "0x03a7407b5b3b45f9e2aa0f15f346253d09196b67f28b54b957eeaaea6fd88a80",
+          "block_number": "13303915",
+          "from_account": {
+            "user": {
+              "username": "xgirl"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/5.png",
+            "address": "0x41f1ac795ad578e09e881174ab02ed9dead98edb",
+            "config": ""
+          },
+          "id": 171327129,
+          "timestamp": "2021-09-26T21:44:34",
+          "to_account": {
+            "user": {
+              "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+          },
+          "transaction_hash": "0xff5c78ca10f3f947c860b66b5fe03b05e69814c6d94530b29406ebf9df21a676",
+          "transaction_index": "142"
+        },
+        "created_date": "2021-09-26T21:45:00.088763",
+        "quantity": "1"
+      }
+    },
+    "256": {
+      "token_id": "42660166192846309205341875090787641074981786816011313725882381039955039223809",
+      "image_url": "https://lh3.googleusercontent.com/OsGgV3x2RkRs2ivh9e7fGVXTmUnGdeJJedu-kNQ6CN_S2oglu_YbMdyj_oh3H7ec70D9jZZD5_151zYQFa7m7-dv8z48ZHTEwpPxJg",
+      "image_thumbnail_url": "https://lh3.googleusercontent.com/OsGgV3x2RkRs2ivh9e7fGVXTmUnGdeJJedu-kNQ6CN_S2oglu_YbMdyj_oh3H7ec70D9jZZD5_151zYQFa7m7-dv8z48ZHTEwpPxJg=s128",
+      "animation_url": null,
+      "name": "iAM #256",
+      "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381039955039223809",
+      "traits": [
+        {
+          "trait_type": "Accessory",
+          "value": "Headband",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 7,
+          "order": null
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Jewelry",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 48,
+          "order": null
+        },
+        {
+          "trait_type": "Accessory",
+          "value": "Weapon",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 6,
+          "order": null
+        },
+        {
+          "trait_type": "Class",
+          "value": "Creature",
+          "display_type": null,
+          "max_value": null,
+          "trait_count": 19,
+          "order": null
+        }
+      ],
+      "last_sale": null
     }
   }
