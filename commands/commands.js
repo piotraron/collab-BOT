@@ -14,9 +14,10 @@ module.exports = {
             .addFields(
                 { name: '!volume', value: `Detailed volume stats`},
                 { name: '!sales', value: `Detailed sales stats`},
+                { name: '!surpriseme', value: `Show a random ${slug}`},
                 { name: '!floor', value: `Floor price`},
                 { name: '!collectors', value: `Number of unique owners`},
-                { name: `!${slug} NUMBER`, value: `Detailed information about Your ${slug}`},
+                { name: `!${slug} NUMBER`, value: `Detailed information about an ${slug}`},
                 { name: '!auction', value: `Auctions explained`},
                 { name: '\u200B', value: `__**Commands that can be used in <#${process.env.BOT_CHANNEL_ID}> channel**__\n\n`},
                 { name: '!showme ADDRESS', value: `Displays all ${slug}s of the address owner`},
