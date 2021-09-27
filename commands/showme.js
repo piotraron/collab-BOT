@@ -2,6 +2,7 @@ const fetch = require('node-fetch');
 const web3_eth = require('web3-eth');
 const { openseaAssetUrl, ethPublicRpcUrl } = require('../config.json');
 const w3_eth = new web3_eth(ethPublicRpcUrl);
+const owners = require('../commands/owners.json')
 
 // const ID = require(`../ids/${process.env.OPEN_SEA_COLLECTION_NAME}.json`);
 
@@ -70,9 +71,25 @@ module.exports = {
           })
           .catch(error => message.channel.send(error.message));
       }
-      else {
+      else if (args[0].includes("0x"))  {
         sendShowMe(message, address).catch(error => message.channel.send(error.message));
       }
+      else {
+        var keys = Object.keys(owners);
+
+        for (let idx=1;idx<keys.length;idx++){
+          if(owners[idx].user){
+            let username = owners[idx].user.username;
+            let addy = owners[idx].address;
+            if(args[0] === username){
+              address = addy
+              break;
+            }
+          }
+        }
+        sendShowMe(message, address).catch(error => message.channel.send(error.message));
+      }
+
     }
     else{
       console.log(message.channel)

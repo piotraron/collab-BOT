@@ -72,7 +72,22 @@ module.exports = {
           })
           .catch(error => message.channel.send(error.message));
       }
+      else if (args[0].includes("0x"))  {
+        sendShowMe(message, address).catch(error => message.channel.send(error.message));
+      }
       else {
+        var keys = Object.keys(owners);
+
+        for (let idx=1;idx<keys.length;idx++){
+          if(owners[idx].user){
+            let username = owners[idx].user.username;
+            let addy = owners[idx].address;
+            if(args[0] === username){
+              address = addy
+              break;
+            }
+          }
+        }
         sendShowMe(message, address).catch(error => message.channel.send(error.message));
       }
     }
