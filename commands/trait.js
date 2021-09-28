@@ -1,4 +1,5 @@
-const asset_details = require('./asset_details.json')
+const fs = require('fs');
+const {assetDetailsFilePath } = require('../config.json');
 const Discord = require('discord.js');
 
 module.exports = {
@@ -8,6 +9,15 @@ module.exports = {
             if (!args.length) {
                 return message.channel.send(`You didn't provide a trait value, ${message.author}!`);
             }
+
+            let asset_details = null;
+            try {
+                asset_details = JSON.parse(fs.readFileSync(assetDetailsFilePath, 'utf8'));
+            }
+            catch (error) {
+                return message.channel.send(`Error: ${error.message}`);
+            }
+            
 
             // Get the trait request. 
             // Need to append later args since we might have trait with more than one word eg. Gas Mask!
