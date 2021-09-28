@@ -2,7 +2,7 @@
 	"prefix": "!",
   "openseaAssetUrl": "https://api.opensea.io/api/v1/asset",
   "openseaEventsUrl": "https://api.opensea.io/api/v1/events",
-  "ethPublicRpcUrl": "https://main-light.eth.linkpool.io/",
+  "ethPublicRpcUrl": "https://cloudflare-eth.com/",
   "assetDetailsFilePath": "./commands/asset_details.json",
   "iamsFilePath": "./commands/iam.json"
 }
