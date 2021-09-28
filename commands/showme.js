@@ -60,19 +60,19 @@ module.exports = {
 	execute(message, args) {
     if(message.channel.id === `${process.env.BOT_CHANNEL_ID}`){
       if (!args.length) {
-        return message.channel.send(`You didn't provide enough information, ${message.author}!`);
+        return message.channel.send(`You didn't provide enough information ${message.author}!`);
       }
 
       let address = args[0]
       if (args[0].includes(".eth")) {
-        address = w3_eth.ens.getAddress(args[0])
+        address = w3_eth.ens.getOwner(args[0])
           .then(res => {
-            sendShowMe(message, res).catch(error => message.channel.send(`You didn't provide a valid .ETH address, ${message.author}!`));
+            sendShowMe(message, res).catch(error => message.channel.send(`You didn't provide a valid .ETH address ${message.author}!`));
           })
-          .catch(error => message.channel.send(`You didn't provide a valid .ETH address, ${message.author}!`));
+          .catch(error => message.channel.send(`You didn't provide a valid .ETH address ${message.author}!`));
       }
       else if (args[0].includes("0x"))  {
-        sendShowMe(message, address).catch(error => message.channel.send(`You didn't provide a valid wallet address, ${message.author}!`));
+        sendShowMe(message, address).catch(error => message.channel.send(`You didn't provide a valid wallet address ${message.author}!`));
       }
       else {
         var keys = Object.keys(owners);
