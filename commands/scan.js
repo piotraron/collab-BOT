@@ -67,7 +67,7 @@ module.exports = {
 
       let address = args[0]
       if (args[0].includes(".eth")) {
-        address = w3_eth.ens.getAddress(args[0])
+        address = w3_eth.ens.getOwner(args[0])
           .then(res => {
             sendShowMe(message, res).catch(error => message.channel.send(error.message));
           })

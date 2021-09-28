@@ -12,7 +12,7 @@ const sendShowMe = async(message, address) => {
   let url = `${openseaAssetUrl}s?owner=${address}&collection=${process.env.OPEN_SEA_COLLECTION_NAME}`;
   let settings = { 
     method: "GET",
-    headers: {
+    headers: { 
       // "X-API-KEY": process.env.OPEN_SEA_API_KEY
     }
   };
@@ -65,8 +65,9 @@ module.exports = {
 
       let address = args[0]
       if (args[0].includes(".eth")) {
-        address = w3_eth.ens.getAddress(args[0])
+        address = w3_eth.ens.getOwner(args[0])
           .then(res => {
+            console.log(address)
             sendShowMe(message, res).catch(error => message.channel.send(error.message));
           })
           .catch(error => message.channel.send(error.message));
