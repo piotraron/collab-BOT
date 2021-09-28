@@ -1,8 +1,6 @@
 const fs = require('fs');
 const {assetDetailsFilePath } = require('../config.json');
 const Discord = require('discord.js');
-const fs = require('fs');
-const {assetDetailsFilePath } = require('../config.json');
 
 module.exports = {
 	name: "trait",
