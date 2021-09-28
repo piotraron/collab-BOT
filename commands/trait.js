@@ -1,5 +1,7 @@
 const asset_details = require('./asset_details.json')
 const Discord = require('discord.js');
+const fs = require('fs');
+const {assetDetailsFilePath } = require('../config.json');
 
 module.exports = {
 	name: "trait",
@@ -7,6 +9,15 @@ module.exports = {
         if(message.channel.id === `${process.env.BOT_CHANNEL_ID}`){
             if (!args.length) {
                 return message.channel.send(`You didn't provide a trait value, ${message.author}!`);
+            }
+
+
+            let asset_details = null;
+            try {
+                asset_details = JSON.parse(fs.readFileSync(assetDetailsFilePath, 'utf8'));
+            }
+            catch (error) {
+                return message.channel.send(`Error: ${error.message}`);
             }
 
             // Get the trait request. 
