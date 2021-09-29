@@ -14,6 +14,8 @@ module.exports = {
 
     // Loading iam.json from file and not require since file may be updated.
     let iam = null;
+    try {iams = JSON.parse(fs.readFileSync(iamsFilePath, 'utf8'));}
+    catch (error) {return message.channel.send(`Error: ${error.message}`);}
     try {asset_details = JSON.parse(fs.readFileSync(assetDetailsFilePath, 'utf8'));}
     catch (error) {return message.channel.send(`Error: ${error.message}`);}
 
@@ -61,13 +63,13 @@ module.exports = {
         args[0] = "81"
       if (name == "star ball ii")
         args[0] = "164"
-      try {iam = JSON.parse(fs.readFileSync(iamsFilePath, 'utf8'));}
-      catch (error) {return message.channel.send(`Error: ${error.message}`);}
-      correct = iam[args[0]];
+      
+      correct = iams[args[0]];
     }
 
-    if (correct == null)
-      return message.channel.send(`Couldn't find the iAM, ${message.author}!`);
+    if (correct == null && args[0].length > 3) {
+      correct = args[0]
+    }
 
     let url = `${openseaAssetUrl}/${process.env.CONTRACT_ADDRESS}/${correct}`;
     let settings = { 
@@ -106,6 +108,24 @@ module.exports = {
             });
 
             message.channel.send(embedMsg);
+
+            var iam_number = metadata.name.split(' ')[1].substring(1)
+            if (!(iam_number in iams)) {
+              // write the token id to the file
+              iams[iam_number] = metadata.token_id
+              fs.writeFile(iamsFilePath, JSON.stringify(iams, null, 4), 'utf8',  function(err, result) {
+                  if(err) console.log('error', err);
+                  console.log("Updating iam.json done")
+                }); // write it back 
+              }
+              var new_asset = {}
+              var valid_keys = [ 'token_id', 'image_url', 'image_thumbnail_url', 'animation_url', 'name', 'permalink', 'traits', 'last_sale' ];
+              valid_keys.forEach((key) => new_asset[key] = metadata[key])
+              asset_details[iam_number] = new_asset
+              fs.writeFile(assetDetailsFilePath, JSON.stringify(asset_details, null, 4), 'utf8',  function(err, result) {
+                if(err) console.log('error', err);
+                console.log("Updating asset_details.json done through token command")
+              }); // write it back 
         })
         .catch(error => message.channel.send(error.message));
 	},
