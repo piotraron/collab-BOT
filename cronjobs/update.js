@@ -6,7 +6,7 @@ const Discord = require('discord.js');
 
 module.exports = {
 	name: "update",
-  interval: 20000,
+  interval: 33*60*1000, // 33mins
 	async execute(client) {
 
     client.user.setActivity("!commands", {

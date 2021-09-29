@@ -8,7 +8,7 @@ const { json } = require('express');
 
 module.exports = {
 	name: "asset_update",
-    interval: 15*60*1000, // 15mins
+    interval: 17*60*1000, // 17mins
 	async execute(client) {
 
         console.log("Updating asset details")
