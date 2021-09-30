@@ -432,7 +432,9 @@
         "updated_on": 1632846077710
     },
     "49": {
-        "user": null,
+        "user": {
+            "username": null
+        },
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
         "address": "0xc31ec049f85d8cf8709e2569f0eade7da2948855",
         "config": "",
@@ -448,7 +450,9 @@
         "updated_on": 1632846078657
     },
     "51": {
-        "user": null,
+        "user": {
+            "username": null
+        },
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/11.png",
         "address": "0xc31ec049f85d8cf8709e2569f0eade7da2948855",
         "config": "",
@@ -761,7 +765,9 @@
         "updated_on": 1632846096639
     },
     "86": {
-        "user": null,
+        "user": {
+            "username": null
+        },
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/7.png",
         "address": "0x2aab909d36581cbc427b8ef0d9484b9f0c484c28",
         "config": "",
@@ -1164,7 +1170,9 @@
         "updated_on": 1632846117508
     },
     "131": {
-        "user": null,
+        "user": {
+            "username": null
+        },
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/15.png",
         "address": "0x3815eaa0bfef42587c751374fab6a0fafe7600a8",
         "config": "",
@@ -1657,7 +1665,9 @@
         "updated_on": 1632846148663
     },
     "186": {
-        "user": null,
+        "user": {
+            "username": null
+        },
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
         "address": "0xd268948ce1a4526371582e3b62b8017b2c953e4f",
         "config": "",

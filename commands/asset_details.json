@@ -21827,22 +21827,6 @@
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381044353085734913",
         "traits": [
             {
-                "trait_type": "Hair",
-                "value": "Messy",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 13,
-                "order": null
-            },
-            {
-                "trait_type": "Class",
-                "value": "Human",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 127,
-                "order": null
-            },
-            {
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -21859,19 +21843,11 @@
                 "order": null
             },
             {
-                "trait_type": "Accessory",
-                "value": "Tattoo",
+                "trait_type": "Class",
+                "value": "Human",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 3,
-                "order": null
-            },
-            {
-                "trait_type": "Accessory",
-                "value": "Headband",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 9,
+                "trait_count": 127,
                 "order": null
             },
             {
@@ -21880,6 +21856,30 @@
                 "display_type": null,
                 "max_value": null,
                 "trait_count": 50,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Tattoo",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 3,
+                "order": null
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Messy",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 14,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Headband",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 9,
                 "order": null
             }
         ],
@@ -21901,7 +21901,7 @@
                 "name": "Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "2862.880000000000109000"
+                "usd_price": "3043.239999999999782000"
             },
             "transaction": {
                 "block_hash": "0xa404ee0e16215ed3c3ee2f37dde249ec75756b02fa5542471232662f6984a1f2",
