@@ -21,7 +21,7 @@ module.exports = {
                 { name: '!auction', value: `Auctions explained`},
                 { name: '!surpriseme', value: `Displays a random ${slug}`},
                 { name: '\u200B', value: `__**Commands that can be used in <#${process.env.BOT_CHANNEL_ID}> channel**__\n\n`},
-                { name: '!showme ADDRESS', value: `Displays all ${slug}s of the address owner`},
+                { name: '!showme ADDRESS', value: `Displays all ${slug}s of the address owner, can be OS name or .eth`},
                 { name: "!trait VALUE", value: `Filter for trait VALUE. Shows a random selection.`}
 
 
