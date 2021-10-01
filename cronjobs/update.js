@@ -44,13 +44,13 @@ module.exports = {
             client.channels.fetch(process.env.VOICE_CHANNEL_OWNERS)
             .then(channel => {
              
-              channel.setName(`[Owners: ${totalOwners}]`);
+              channel.setName(`Total Owners: ${totalOwners}`);
 
             })
             client.channels.fetch(process.env.VOICE_CHANNEL_TOTALSALES)
             .then(channel => {
              
-              channel.setName(`[Sales: ${totalSales}]`);
+              channel.setName(`Total Sales: ${totalSales}`);
 
             })
         })
