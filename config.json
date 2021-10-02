@@ -4,5 +4,6 @@
   "openseaEventsUrl": "https://api.opensea.io/api/v1/events",
   "ethPublicRpcUrl": "https://api.mycryptoapi.com/eth",
   "assetDetailsFilePath": "./commands/asset_details.json",
-  "iamsFilePath": "./commands/iam.json"
+  "iamsFilePath": "./commands/iam.json",
+  "rarityFilePath": "./commands/rarity.json"
 }

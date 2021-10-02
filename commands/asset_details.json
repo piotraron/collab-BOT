@@ -8,19 +8,11 @@
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380602349411368961",
         "traits": [
             {
-                "trait_type": "Quirk",
-                "value": "Genesis",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 1,
-                "order": null
-            },
-            {
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 46,
+                "trait_count": 47,
                 "order": null
             },
             {
@@ -28,7 +20,15 @@
                 "value": "Nickname",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 102,
+                "trait_count": 104,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
+                "value": "Genesis",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
                 "order": null
             }
         ],
@@ -639,19 +639,11 @@
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380612245016018945",
         "traits": [
             {
-                "trait_type": "Quirk",
-                "value": "Golden",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 6,
-                "order": null
-            },
-            {
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 46,
+                "trait_count": 47,
                 "order": null
             },
             {
@@ -659,7 +651,15 @@
                 "value": "Nickname",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 102,
+                "trait_count": 104,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
+                "value": "Golden",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 6,
                 "order": null
             }
         ],
@@ -681,7 +681,7 @@
                 "name": "Wrapped Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "2848.440000000000055000"
+                "usd_price": "3291.590000000000146000"
             },
             "transaction": {
                 "block_hash": "0xdf38ebda1c4b5702d19364fbba5dc5b07cb818a97911ae482f0243fd06262099",
@@ -1397,11 +1397,11 @@
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380623240132296705",
         "traits": [
             {
-                "trait_type": "Class",
-                "value": "Human",
+                "trait_type": "Quirk",
+                "value": "Nickname",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 127,
+                "trait_count": 104,
                 "order": null
             },
             {
@@ -1410,6 +1410,14 @@
                 "display_type": null,
                 "max_value": null,
                 "trait_count": 40,
+                "order": null
+            },
+            {
+                "trait_type": "Class",
+                "value": "Human",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 129,
                 "order": null
             },
             {
@@ -1425,15 +1433,7 @@
                 "value": "Afro",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 5,
-                "order": null
-            },
-            {
-                "trait_type": "Quirk",
-                "value": "Nickname",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 102,
+                "trait_count": 6,
                 "order": null
             }
         ],
@@ -1455,7 +1455,7 @@
                 "name": "Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "2862.880000000000109000"
+                "usd_price": "3288.380000000000109000"
             },
             "transaction": {
                 "block_hash": "0x2b47e187d351dbc61d37e895add314fc4149e945fe4983cc571afcf7671ac463",
@@ -1498,7 +1498,7 @@
                 "value": "Elemental",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 46,
+                "trait_count": 47,
                 "order": null
             },
             {
@@ -1506,7 +1506,7 @@
                 "value": "Nickname",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 102,
+                "trait_count": 104,
                 "order": null
             }
         ],
@@ -1528,7 +1528,7 @@
                 "name": "Wrapped Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "2848.440000000000055000"
+                "usd_price": "3291.590000000000146000"
             },
             "transaction": {
                 "block_hash": "0x000b4574df0ac7263b9042635d033f4fb276e0c7e1455980e3b4dbd21ed5faae",
@@ -16561,6 +16561,46 @@
         "traits": [
             {
                 "trait_type": "Quirk",
+                "value": "Nickname",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 104,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Jewelry",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 52,
+                "order": null
+            },
+            {
+                "trait_type": "Class",
+                "value": "Spirit",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 4,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
+                "value": "Collaborative",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 4,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
+                "value": "Animated",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 7,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
                 "max_value": null,
@@ -16577,50 +16617,10 @@
             },
             {
                 "trait_type": "Quirk",
-                "value": "Collaborative",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 4,
-                "order": null
-            },
-            {
-                "trait_type": "Class",
-                "value": "Spirit",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 4,
-                "order": null
-            },
-            {
-                "trait_type": "Accessory",
-                "value": "Jewelry",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 50,
-                "order": null
-            },
-            {
-                "trait_type": "Quirk",
                 "value": "Nonk",
                 "display_type": null,
                 "max_value": null,
                 "trait_count": 1,
-                "order": null
-            },
-            {
-                "trait_type": "Quirk",
-                "value": "Animated",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 6,
-                "order": null
-            },
-            {
-                "trait_type": "Quirk",
-                "value": "Nickname",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 102,
                 "order": null
             }
         ],
@@ -16642,7 +16642,7 @@
                 "name": "Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "2862.880000000000109000"
+                "usd_price": "3288.380000000000109000"
             },
             "transaction": {
                 "block_hash": "0xeb8792cbf382a8bd4d48e6ca9385883e414c9549d9b9317c3feea14d579ed04a",

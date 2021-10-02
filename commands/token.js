@@ -1,7 +1,6 @@
 const fetch = require('node-fetch');
-const { openseaAssetUrl, assetDetailsFilePath, iamsFilePath } = require('../config.json');
+const { openseaAssetUrl, assetDetailsFilePath, iamsFilePath, rarityFilePath } = require('../config.json');
 const fs = require('fs');
-
 const Discord = require('discord.js');
 
 
@@ -17,6 +16,8 @@ module.exports = {
     try {iams = JSON.parse(fs.readFileSync(iamsFilePath, 'utf8'));}
     catch (error) {return message.channel.send(`Error: ${error.message}`);}
     try {asset_details = JSON.parse(fs.readFileSync(assetDetailsFilePath, 'utf8'));}
+    catch (error) {return message.channel.send(`Error: ${error.message}`);}
+    try {rarity = JSON.parse(fs.readFileSync(rarityFilePath, 'utf8'));}
     catch (error) {return message.channel.send(`Error: ${error.message}`);}
 
     // Will check if its a name and then find the corresponding iam
@@ -71,6 +72,19 @@ module.exports = {
       correct = args[0]
     }
 
+    // rarity
+    for(var i = 0; i < rarity.length; i++){
+      // take names from rarity and convert them to numbers
+      var extractedNumber  = rarity[i]["name"];
+         extractedNumber = extractedNumber.substring(1).split(" ")[0];
+
+      // use number to find an id and compare with id we are looking for
+      if(iams[extractedNumber] === correct){
+        // add rarity score to var
+        var rarityScoreNr = rarity[i]["score"];
+      }
+    }
+
     let url = `${openseaAssetUrl}/${process.env.CONTRACT_ADDRESS}/${correct}`;
     let settings = { 
       method: "GET",
@@ -100,8 +114,8 @@ module.exports = {
               .setTitle(metadata.name)
               .setURL(metadata.permalink)
               .addField("Owner", `[${metadata.top_ownerships[0].owner.user?.username || metadata.top_ownerships[0].owner.address.slice(0,8)}](https://opensea.io/${metadata.top_ownerships[0].owner.address})`)
-              .setImage(metadata.image_url);
-
+              .setImage(metadata.image_url)
+              .setDescription(`\n\n Rarity Score: **${rarityScoreNr}**\n\n`)
             metadata.traits.forEach(function(trait){
               embedMsg.addField(trait.trait_type, `${trait.value} (${Number(trait.trait_count/metadata.collection.stats.count).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2})})`, true)
               //embedMsg.addField(trait.trait_type, `${trait.value}`, true)
