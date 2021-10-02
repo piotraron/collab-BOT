@@ -5225,6 +5225,22 @@
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380678215713685505",
         "traits": [
             {
+                "trait_type": "Quirk",
+                "value": "Nickname",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 104,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
+                "value": "Fashion",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 14,
+                "order": null
+            },
+            {
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -5233,11 +5249,11 @@
                 "order": null
             },
             {
-                "trait_type": "Quirk",
-                "value": "Unknown",
+                "trait_type": "Accessory",
+                "value": "Jewelry",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 1,
+                "trait_count": 52,
                 "order": null
             },
             {
@@ -5257,22 +5273,6 @@
                 "order": null
             },
             {
-                "trait_type": "Quirk",
-                "value": "Fashion",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 14,
-                "order": null
-            },
-            {
-                "trait_type": "Accessory",
-                "value": "Jewelry",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 52,
-                "order": null
-            },
-            {
                 "trait_type": "Accessory",
                 "value": "Beard",
                 "display_type": null,
@@ -5282,10 +5282,10 @@
             },
             {
                 "trait_type": "Quirk",
-                "value": "Nickname",
+                "value": "Unknown",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 104,
+                "trait_count": 1,
                 "order": null
             }
         ],
