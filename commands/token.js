@@ -115,7 +115,7 @@ module.exports = {
               .setURL(metadata.permalink)
               .addField("Owner", `[${metadata.top_ownerships[0].owner.user?.username || metadata.top_ownerships[0].owner.address.slice(0,8)}](https://opensea.io/${metadata.top_ownerships[0].owner.address})`)
               .setImage(metadata.image_url)
-              .setDescription(`\n\n Rarity Score: **${rarityScoreNr}**\n\n`)
+              .setDescription(`Rarity Ranking: nr. **${rarityScoreNr}**`)
             metadata.traits.forEach(function(trait){
               embedMsg.addField(trait.trait_type, `${trait.value} (${Number(trait.trait_count/metadata.collection.stats.count).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2})})`, true)
               //embedMsg.addField(trait.trait_type, `${trait.value}`, true)
