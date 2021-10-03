@@ -77,8 +77,9 @@ module.exports = {
       else {
         var keys = Object.keys(owners);
 
-        for (let idx=1;idx<keys.length;idx++){
-          if(owners[idx].user.username){
+        for (let i=1;i<keys.length;i++){
+          let idx = keys[i];
+          if ((idx in owners) && owners[idx].user && owners[idx].user.username != null){
             let username = owners[idx].user.username;
             let addy = owners[idx].address;
             if(args[0].toLowerCase() === username.toLowerCase()){

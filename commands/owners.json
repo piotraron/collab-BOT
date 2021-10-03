@@ -2350,9 +2350,7 @@
         "updated_on": 1633281473841
     },
     "263": {
-        "user": {
-            "username": null
-        },
+        "user": null,
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
         "address": "0x461e96a729b145430bfc85f1c0814bd9bed8e4ed",
         "config": "",
