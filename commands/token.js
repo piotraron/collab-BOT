@@ -43,7 +43,7 @@ module.exports = {
 
           // compare name we got and iam name
           // console.log(iam_name, name)
-          if (iam_name === name) {
+          if (iam_name.includes(name) ) {
             iam = temp_iam
             break
           }

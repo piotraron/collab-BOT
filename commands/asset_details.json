@@ -1644,7 +1644,7 @@
                 "value": "Elemental",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 46,
+                "trait_count": 48,
                 "order": null
             },
             {
@@ -1652,7 +1652,7 @@
                 "value": "Nickname",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 102,
+                "trait_count": 105,
                 "order": null
             }
         ],
@@ -1674,7 +1674,7 @@
                 "name": "Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "2862.880000000000109000"
+                "usd_price": "3381.940000000000055000"
             },
             "transaction": {
                 "block_hash": "0xa3a06fd5dac8a41f8c93cc54aebad0cecf81d30c071e7bafae6eac204cbed00b",
