@@ -9,10 +9,10 @@ module.exports = {
   interval: 34*60*1000, // 34mins
 	async execute(client) {
 
-    client.user.setActivity("!commands", {
-      type: "LISTENING",
+    // client.user.setActivity("!commands", {
+    //   type: "LISTENING",
 
-    })
+    // })
 
     let url = `${openseaAssetUrl}/${process.env.CONTRACT_ADDRESS}/${process.env.SAMPLE_TOKEN_ID}`;
     let settings = { 
@@ -40,19 +40,24 @@ module.exports = {
             let totalOwners = metadata.collection.stats.num_owners;
             let totalSales = metadata.collection.stats.total_sales;
 
-
+          //check if voice channel ID set up for total owners
+          if(process.env.VOICE_CHANNEL_OWNERS){
             client.channels.fetch(process.env.VOICE_CHANNEL_OWNERS)
             .then(channel => {
              
               channel.setName(`Total Owners: ${totalOwners}`);
 
             })
+          }
+          //check if voice channel ID set up for total sales
+          if(process.env.VOICE_CHANNEL_TOTALSALES){
             client.channels.fetch(process.env.VOICE_CHANNEL_TOTALSALES)
             .then(channel => {
              
               channel.setName(`Total Sales: ${totalSales}`);
 
             })
+          }
         })
         .catch(error => console.log(error));
 	},
