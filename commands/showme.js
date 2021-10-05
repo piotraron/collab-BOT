@@ -12,7 +12,7 @@ const sendShowMe = async(message, address) => {
   let url = `${openseaAssetUrl}s?owner=${address}&collection=${process.env.OPEN_SEA_COLLECTION_NAME}`;
   let settings = { 
     method: "GET",
-    headers: { 
+    headers: {
       // "X-API-KEY": process.env.OPEN_SEA_API_KEY
     }
   };
@@ -31,7 +31,6 @@ const sendShowMe = async(message, address) => {
         
       })
       .then((metadata) => {
-
         let user = message.content;
         const embedMsg = new Discord.MessageEmbed()
         // const firstEmbed = new Discord.MessageEmbed()
@@ -72,12 +71,19 @@ module.exports = {
           .catch(error => message.channel.send(`You didn't provide a valid .ETH address ${message.author}!`));
       }
       else if (args[0].includes("0x"))  {
+        var keys = Object.keys(owners);
+        for (let i=0;i<keys.length;i++){
+          let idx = keys[i];
+          if ((idx in owners) && owners[idx].address && args[0].length < 42  && args[0].length >= 6 && owners[idx].address.includes(args[0].toLowerCase())) {
+            address = owners[idx].address;
+          }
+        }
         sendShowMe(message, address).catch(error => message.channel.send(`You didn't provide a valid wallet address ${message.author}!`));
       }
       else {
         var keys = Object.keys(owners);
 
-        for (let i=1;i<keys.length;i++){
+        for (let i=0;i<keys.length;i++){
           let idx = keys[i];
           if ((idx in owners) && owners[idx].user && owners[idx].user.username != null){
             let username = owners[idx].user.username;
@@ -86,6 +92,10 @@ module.exports = {
               address = addy
               break;
             }
+          }
+          else if ((idx in owners) && owners[idx].address && owners[idx].address.includes(args[0].toLowerCase()) && args[0].length >= 6) {
+            address = owners[idx].address;
+            break;
           }
         }
         sendShowMe(message, address).catch(error => message.channel.send(`This is not a correct Opensea username, ${message.author}!`));
