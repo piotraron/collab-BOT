@@ -6956,7 +6956,7 @@
                 "value": "Elemental",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 46,
+                "trait_count": 48,
                 "order": null
             }
         ],
@@ -6978,7 +6978,7 @@
                 "name": "Wrapped Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "2848.440000000000055000"
+                "usd_price": "3433.110000000000127000"
             },
             "transaction": {
                 "block_hash": "0x2f148ed2b28d65f3223d6cfa7dfdb13dc8aec291e71d920ce286d65e7230fa96",
