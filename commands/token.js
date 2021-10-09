@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const { openseaAssetUrl, assetDetailsFilePath, iamsFilePath } = require('../config.json');
+const { openseaAssetUrl, assetDetailsFilePath, iamsFilePath, ownersFilePath } = require('../config.json');
 const fs = require('fs');
 
 const Discord = require('discord.js');
@@ -17,6 +17,8 @@ module.exports = {
     try {iams = JSON.parse(fs.readFileSync(iamsFilePath, 'utf8'));}
     catch (error) {return message.channel.send(`Error: ${error.message}`);}
     try {asset_details = JSON.parse(fs.readFileSync(assetDetailsFilePath, 'utf8'));}
+    catch (error) {return message.channel.send(`Error: ${error.message}`);}
+    try {owners = JSON.parse(fs.readFileSync(ownersFilePath, 'utf8'));}
     catch (error) {return message.channel.send(`Error: ${error.message}`);}
 
     // Will check if its a name and then find the corresponding iam
@@ -114,10 +116,11 @@ module.exports = {
               // write the token id to the file
               iams[iam_number] = metadata.token_id
               fs.writeFile(iamsFilePath, JSON.stringify(iams, null, 4), 'utf8',  function(err, result) {
-                  if(err) console.log('error', err);
-                  console.log("Updating iam.json done")
-                }); // write it back 
-              }
+                if(err) console.log('error', err);
+                console.log("Updating iam.json done")
+              }); // write it back 
+            }
+
               var new_asset = {}
               var valid_keys = [ 'token_id', 'image_url', 'image_thumbnail_url', 'animation_url', 'name', 'permalink', 'traits', 'last_sale' ];
               valid_keys.forEach((key) => new_asset[key] = metadata[key])
@@ -126,6 +129,14 @@ module.exports = {
                 if(err) console.log('error', err);
                 console.log("Updating asset_details.json done through token command")
               }); // write it back 
+
+              new_asset = metadata['top_ownerships'][0]['owner']
+              new_asset['updated_on'] = Date.now()
+              owners[iam_number] = new_asset
+              fs.writeFile(ownersFilePath, JSON.stringify(owners, null, 4), 'utf8',  function(err, result) {
+                if(err) console.log('error', err);
+                console.log("Updating owners.json done through token command")
+              });
         })
         .catch(error => message.channel.send(error.message));
 	},
