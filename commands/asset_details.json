@@ -11430,11 +11430,11 @@
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380783768829952001",
         "traits": [
             {
-                "trait_type": "Accessory",
-                "value": "Monocle",
+                "trait_type": "Class",
+                "value": "Elemental",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 5,
+                "trait_count": 49,
                 "order": null
             },
             {
@@ -11454,11 +11454,11 @@
                 "order": null
             },
             {
-                "trait_type": "Class",
-                "value": "Elemental",
+                "trait_type": "Accessory",
+                "value": "Monocle",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 49,
+                "trait_count": 5,
                 "order": null
             }
         ],
@@ -11480,7 +11480,7 @@
                 "name": "Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "3530.579999999999927000"
+                "usd_price": "3534.130000000000109000"
             },
             "transaction": {
                 "block_hash": "0x3c85f1b1732513f235b6a31de73b39bd09ba919c392eac1f9cc7bb6e89759c82",
