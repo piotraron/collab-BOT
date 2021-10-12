@@ -1,14 +1,9 @@
-const fetch = require('node-fetch');
-
-
 const Discord = require('discord.js');
 
 
 module.exports = {
-	name: "auction" || "auctions",
+	name: "auction",
 	execute(message) {
-
-
 
             const embedMsg = new Discord.MessageEmbed()
             .setColor('#581845')

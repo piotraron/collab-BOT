@@ -15,7 +15,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
         "address": "0x5e50cc64518b43dd30d7da5420c7ea23f223e2e0",
         "config": "",
-        "updated_on": 1633820836619
+        "updated_on": 1633999383393
     },
     "3": {
         "user": {
@@ -321,7 +321,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
         "address": "0xe62f2c7cbc829207d1e27c77c9e15db2989a31b4",
         "config": "",
-        "updated_on": 1633820851907
+        "updated_on": 1634000773112
     },
     "37": {
         "user": {
@@ -339,7 +339,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
         "address": "0x8c6d049e99b2a9aeb785e28732913e595d756caa",
         "config": "",
-        "updated_on": 1633820853096
+        "updated_on": 1633999692121
     },
     "39": {
         "user": {
@@ -2104,7 +2104,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
         "address": "0x4ce8bdc18e257db9ea29d11e290dfba99431ddd9",
         "config": "",
-        "updated_on": 1633820947969
+        "updated_on": 1633999507712
     },
     "236": {
         "user": {
@@ -2534,7 +2534,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
         "address": "0xfe929ba5132aba665b8a759f52862376bb3f8368",
         "config": "",
-        "updated_on": 1633820970803
+        "updated_on": 1634000877088
     },
     "284": {
         "user": {
@@ -2552,7 +2552,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
         "address": "0x5e50cc64518b43dd30d7da5420c7ea23f223e2e0",
         "config": "",
-        "updated_on": 1633820971665
+        "updated_on": 1634000867012
     },
     "286": {
         "user": {
@@ -2570,6 +2570,24 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
         "address": "0x4ce8bdc18e257db9ea29d11e290dfba99431ddd9",
         "config": "",
-        "updated_on": 1633984175616
+        "updated_on": 1634000817755
+    },
+    "288": {
+        "user": {
+            "username": "SannG"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/31.png",
+        "address": "0xae4b88959f1a52d4c1dfed6293a139228dfcf8e2",
+        "config": "",
+        "updated_on": 1634000796282
+    },
+    "289": {
+        "user": {
+            "username": "94shooters"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+        "address": "0xe65494a4b20d6d63b7604a8d56c28fc590a368b8",
+        "config": "",
+        "updated_on": 1634000785163
     }
 }

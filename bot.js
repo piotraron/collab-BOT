@@ -41,7 +41,14 @@ client.on('message', msg => {
   if (!msg.content.startsWith(prefix) || msg.author.bot) return;
 
   const args = msg.content.slice(prefix.length).trim().split(' ');
-  const commandName  = args.shift().toLowerCase();
+  var commandName  = args.shift().toLowerCase();
+
+  if(commandName === "auctions"){
+    commandName = "auction";
+  }
+  if(commandName === "surprise"){
+    commandName = "surpriseme";
+  }
 
   if (!client.commands.has(commandName)) return;
 
