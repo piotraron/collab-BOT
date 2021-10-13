@@ -123,7 +123,6 @@ module.exports = {
           embedMsg.setImage(url);
         } else {
           embedMsg.setImage(metadata.image_url);
-          console.log("NO animation");
         }
 
 
