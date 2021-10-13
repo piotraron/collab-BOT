@@ -52,7 +52,17 @@ module.exports = {
               .setTitle(metadata.name)
               .setURL(metadata.permalink)
               .addField("Owner", `[${metadata.top_ownerships[0].owner.user?.username || metadata.top_ownerships[0].owner.address.slice(0,8)}](https://opensea.io/${metadata.top_ownerships[0].owner.address})`)
-              .setImage(metadata.image_url);
+              //check if animation
+              if (metadata.animation_url !== null) {
+                let url = metadata.animation_url;
+                url = url.replace("https://storage.opensea.io/files/","https://github.com/piotraron/iamgifs/blob/main/");
+                url = url.replace(".mp4", ".gif?raw=true");
+      
+                embedMsg.setImage(url);
+              } else {
+                embedMsg.setImage(metadata.image_url);
+                console.log("NO animation");
+              }
 
             metadata.traits.forEach(function(trait){
               embedMsg.addField(trait.trait_type, `${trait.value} (${Number(trait.trait_count/metadata.collection.stats.count).toLocaleString(undefined,{style: 'percent', minimumFractionDigits:2})})`, true)
