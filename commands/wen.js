@@ -15,7 +15,7 @@ const text = ["Might be ready in 5 minutes!! Stop asking every hour",
             ]
 
 module.exports = {
-	name: "wen" || "auctions",
+	name: "wen",
 	execute(message) {
 
         message.channel.send(text[parseInt(text.length * Math.random())] + ` ${message.author}`)
