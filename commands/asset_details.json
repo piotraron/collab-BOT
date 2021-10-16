@@ -24737,7 +24737,7 @@
                 "value": "Creature",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 23,
+                "trait_count": 24,
                 "order": null
             }
         ],
@@ -24759,7 +24759,7 @@
                 "name": "Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "3783.210000000000036000"
+                "usd_price": "3884.630000000000109000"
             },
             "transaction": {
                 "block_hash": "0x02ef869d0ef9bfaca2908e027c50e2f4e72cd7f1cfbf223a4afa04ee2a6aaea5",
@@ -24799,10 +24799,10 @@
         "traits": [
             {
                 "trait_type": "Quirk",
-                "value": "Glowing",
+                "value": "Nickname",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 16,
+                "trait_count": 111,
                 "order": null
             },
             {
@@ -24811,14 +24811,6 @@
                 "display_type": null,
                 "max_value": null,
                 "trait_count": 22,
-                "order": null
-            },
-            {
-                "trait_type": "Accessory",
-                "value": "Brain",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 3,
                 "order": null
             },
             {
@@ -24831,10 +24823,18 @@
             },
             {
                 "trait_type": "Quirk",
-                "value": "Nickname",
+                "value": "Glowing",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 111,
+                "trait_count": 16,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Brain",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 3,
                 "order": null
             }
         ],
@@ -24856,7 +24856,7 @@
                 "name": "Wrapped Ether",
                 "decimals": 18,
                 "eth_price": "1.000000000000000",
-                "usd_price": "3773.690000000000055000"
+                "usd_price": "3873.000000000000000000"
             },
             "transaction": {
                 "block_hash": "0xdb4cf237de9f6f7a0f8568157b0f3948d46c05330b711dd23cde205d051eb942",
@@ -24883,6 +24883,324 @@
                 "transaction_index": "104"
             },
             "created_date": "2021-10-13T20:32:56.268224",
+            "quantity": "1"
+        }
+    },
+    "294": {
+        "token_id": "42660166192846309205341875090787641074981786816011313725882381081736481079297",
+        "image_url": "https://lh3.googleusercontent.com/BTm0tvrU7OBRQYloC5qOLOWKPlrXQ5-eOdw-33T4PkW_8BoX-hBDtAc4hraG4R245EKHDdWqpkLyWZ_ifYu3YdzAyHf4a_ToYljb",
+        "image_thumbnail_url": "https://lh3.googleusercontent.com/BTm0tvrU7OBRQYloC5qOLOWKPlrXQ5-eOdw-33T4PkW_8BoX-hBDtAc4hraG4R245EKHDdWqpkLyWZ_ifYu3YdzAyHf4a_ToYljb=s128",
+        "animation_url": null,
+        "name": "iAM #294",
+        "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381081736481079297",
+        "traits": [
+            {
+                "trait_type": "Hair",
+                "value": "Curls",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 13,
+                "order": null
+            },
+            {
+                "trait_type": "Class",
+                "value": "Human",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 144,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Glasses",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 25,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Bubble Gum",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 5,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Tie",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 11,
+                "order": null
+            }
+        ],
+        "last_sale": {
+            "asset": {
+                "token_id": "42660166192846309205341875090787641074981786816011313725882381081736481079297",
+                "decimals": null
+            },
+            "asset_bundle": null,
+            "event_type": "successful",
+            "event_timestamp": "2021-10-14T23:55:32",
+            "auction_type": null,
+            "total_price": "50000000000000000",
+            "payment_token": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "3884.630000000000109000"
+            },
+            "transaction": {
+                "block_hash": "0x8a0dd26781a4c00aa0e472bbd2cfc1cbca8f7b2a3a975c1f939471cf67f9745c",
+                "block_number": "13419367",
+                "from_account": {
+                    "user": {
+                        "username": "CryMore"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
+                    "address": "0x1c9f5818ee7edd37ecee49c693f3c1bc630890d2",
+                    "config": ""
+                },
+                "id": 181708834,
+                "timestamp": "2021-10-14T23:55:32",
+                "to_account": {
+                    "user": {
+                        "username": "OpenSea-Orders"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                    "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                    "config": "verified"
+                },
+                "transaction_hash": "0x281120349a2d5fa8f672df96fa45a525248a84c0ec8a56127aba13d9545b9d9a",
+                "transaction_index": "384"
+            },
+            "created_date": "2021-10-14T23:57:07.724071",
+            "quantity": "1"
+        }
+    },
+    "295": {
+        "token_id": "42660166192846309205341875090787641074981786816011313725882381082835992707073",
+        "image_url": "https://lh3.googleusercontent.com/7Gd9iePIHHmu3QLkxQev00916R_KcVsj7OTG-88xaxXQHB-LmkwNrThmOAaL62Cy7nRR9lQqrzZJvsEkJWzZMl8AfGRjVVj9xze-pQ",
+        "image_thumbnail_url": "https://lh3.googleusercontent.com/7Gd9iePIHHmu3QLkxQev00916R_KcVsj7OTG-88xaxXQHB-LmkwNrThmOAaL62Cy7nRR9lQqrzZJvsEkJWzZMl8AfGRjVVj9xze-pQ=s128",
+        "animation_url": null,
+        "name": "iAM #295",
+        "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381082835992707073",
+        "traits": [
+            {
+                "trait_type": "Class",
+                "value": "Creature",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 24,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
+                "value": "Aquatic",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 10,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Raindrops",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 3,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Tail",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 6,
+                "order": null
+            }
+        ],
+        "last_sale": {
+            "asset": {
+                "token_id": "42660166192846309205341875090787641074981786816011313725882381082835992707073",
+                "decimals": null
+            },
+            "asset_bundle": null,
+            "event_type": "successful",
+            "event_timestamp": "2021-10-15T00:15:32",
+            "auction_type": null,
+            "total_price": "1046123260437375746",
+            "payment_token": {
+                "id": 1,
+                "symbol": "ETH",
+                "address": "0x0000000000000000000000000000000000000000",
+                "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+                "name": "Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "3884.630000000000109000"
+            },
+            "transaction": {
+                "block_hash": "0x03e32f0ccf07aebad565d78f2f945024c0643ae7130325cc257a253985b25983",
+                "block_number": "13419428",
+                "from_account": {
+                    "user": {
+                        "username": "cryptobrendle"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+                    "address": "0x7e5b399e254665590266ac6a9e2a1e3336576cc0",
+                    "config": ""
+                },
+                "id": 181714542,
+                "timestamp": "2021-10-15T00:15:32",
+                "to_account": {
+                    "user": {
+                        "username": "OpenSea-Orders"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                    "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                    "config": "verified"
+                },
+                "transaction_hash": "0xe04415d8877d7a9fe8dd1848efed44f874f7d2a2f298a096d0c8c03b5ea5c2db",
+                "transaction_index": "101"
+            },
+            "created_date": "2021-10-15T00:15:48.530837",
+            "quantity": "1"
+        }
+    },
+    "296": {
+        "token_id": "42660166192846309205341875090787641074981786816011313725882381083935504334849",
+        "image_url": "https://lh3.googleusercontent.com/63vKvmxej65lhPIBh_tFWELS10FpxrEfVNrJqxx5IyW59ZE5nLh--ywll0j3tMRTknOCcbpB0bDNdo6b-2vmE0qONyBTv6NXo_R5TQ",
+        "image_thumbnail_url": "https://lh3.googleusercontent.com/63vKvmxej65lhPIBh_tFWELS10FpxrEfVNrJqxx5IyW59ZE5nLh--ywll0j3tMRTknOCcbpB0bDNdo6b-2vmE0qONyBTv6NXo_R5TQ=s128",
+        "animation_url": null,
+        "name": "iAM #296",
+        "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381083935504334849",
+        "traits": [
+            {
+                "trait_type": "Class",
+                "value": "Elemental",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 52,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Cap",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 17,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Hoodie",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 17,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Dead Eyes",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 5,
+                "order": null
+            }
+        ],
+        "last_sale": null
+    },
+    "298": {
+        "token_id": "42660166192846309205341875090787641074981786816011313725882381086134527590401",
+        "image_url": "https://lh3.googleusercontent.com/dWPpKmrI0MbTRqcYQDXV9CNU3mNub8JVTVrPKsZJ-b5Pxxj9NRg6PkPIybBlthciANKIJOWOUk9vcK3eqKV-9eDsbZ-m82DnSOyshg",
+        "image_thumbnail_url": "https://lh3.googleusercontent.com/dWPpKmrI0MbTRqcYQDXV9CNU3mNub8JVTVrPKsZJ-b5Pxxj9NRg6PkPIybBlthciANKIJOWOUk9vcK3eqKV-9eDsbZ-m82DnSOyshg=s128",
+        "animation_url": null,
+        "name": "iAM #298",
+        "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381086134527590401",
+        "traits": [
+            {
+                "trait_type": "Accessory",
+                "value": "Fangs",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 10,
+                "order": null
+            },
+            {
+                "trait_type": "Class",
+                "value": "Creature",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 24,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Wings",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 2,
+                "order": null
+            },
+            {
+                "trait_type": "Quirk",
+                "value": "Leaky",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            }
+        ],
+        "last_sale": {
+            "asset": {
+                "token_id": "42660166192846309205341875090787641074981786816011313725882381086134527590401",
+                "decimals": null
+            },
+            "asset_bundle": null,
+            "event_type": "successful",
+            "event_timestamp": "2021-10-16T00:43:13",
+            "auction_type": null,
+            "total_price": "139000000000000000",
+            "payment_token": {
+                "id": 2,
+                "symbol": "WETH",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                "name": "Wrapped Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "3873.000000000000000000"
+            },
+            "transaction": {
+                "block_hash": "0xa828a55adf6b0730bf16ec1903d624c9b845408abfc9bfb0d847e045c80799a3",
+                "block_number": "13425888",
+                "from_account": {
+                    "user": {
+                        "username": "artistthebob"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+                    "address": "0x5e50cc64518b43dd30d7da5420c7ea23f223e2e0",
+                    "config": ""
+                },
+                "id": 182283438,
+                "timestamp": "2021-10-16T00:43:13",
+                "to_account": {
+                    "user": {
+                        "username": "OpenSea-Orders"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                    "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                    "config": "verified"
+                },
+                "transaction_hash": "0x3b2c2259e025875c532636475493eae8a1f697e7ac96bec9213132106c66da27",
+                "transaction_index": "150"
+            },
+            "created_date": "2021-10-16T00:43:37.039164",
             "quantity": "1"
         }
     }

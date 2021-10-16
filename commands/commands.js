@@ -12,7 +12,6 @@ module.exports = {
             .addFields(
                 { name: '!volume', value: `Detailed volume stats`},
                 { name: '!sales', value: `Detailed sales stats`},
-                { name: '!surpriseme', value: `Show a random ${slug}`},
                 { name: '!floor', value: `Floor price`},
                 { name: '!collectors', value: `Number of unique owners`},
                 { name: `!${slug} NUMBER`, value: `Detailed information about an ${slug}`},

@@ -1,5 +1,5 @@
 const fetch = require("node-fetch");
-const { openseaAssetUrl, assetDetailsFilePath, iamsFilePath, ownersFilePath } = require("../config.json");
+const {openseaAssetUrl, assetDetailsFilePath, iamsFilePath, ownersFilePath} = require("../config.json");
 const fs = require("fs");
 
 const Discord = require("discord.js");
@@ -119,7 +119,8 @@ module.exports = {
 
 
                 metadata.traits.forEach(function(trait) {
-                    embedMsg.addField(trait.trait_type, `${trait.value} (${Number(trait.trait_count / metadata.collection.stats.count).toLocaleString(undefined, {style: "percent", minimumFractionDigits: 2,})})`, true);
+                    embedMsg.addField(trait.trait_type, `${trait.value} (${Number(trait.trait_count / metadata.collection.stats.count).toLocaleString(undefined, {style: "percent", minimumFractionDigits: 2,})})`,                  true
+                    );
                     //embedMsg.addField(trait.trait_type, `${trait.value}`, true)
                 });
 
