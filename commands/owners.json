@@ -2194,7 +2194,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
         "address": "0xb37d130b71945b652746d1c10f454afbf8444ba3",
         "config": "",
-        "updated_on": 1633820952777
+        "updated_on": 1634410157844
     },
     "246": {
         "user": {
@@ -2354,7 +2354,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
         "address": "0x461e96a729b145430bfc85f1c0814bd9bed8e4ed",
         "config": "",
-        "updated_on": 1633820960826
+        "updated_on": 1634410141740
     },
     "264": {
         "user": {
@@ -2516,7 +2516,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/3.png",
         "address": "0x0d4bdcde1ef3528ade8b281fc8a58bba971e597d",
         "config": "",
-        "updated_on": 1633820969428
+        "updated_on": 1634410125349
     },
     "282": {
         "user": {
@@ -2640,7 +2640,7 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
         "address": "0x7e5b399e254665590266ac6a9e2a1e3336576cc0",
         "config": "",
-        "updated_on": 1634345119498
+        "updated_on": 1634405504780
     },
     "296": {
         "user": {
@@ -2651,6 +2651,15 @@
         "config": "",
         "updated_on": 1634345114134
     },
+    "297": {
+        "user": {
+            "username": "CabbageBasket"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/32.png",
+        "address": "0xd573d503234a9b9590542a3168754911bf67f0fa",
+        "config": "",
+        "updated_on": 1634405489617
+    },
     "298": {
         "user": {
             "username": "Warriorn8ion"
@@ -2658,6 +2667,6 @@
         "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
         "address": "0xa9d3f26f5b63c8b5d632499ad9dac444d2345daa",
         "config": "",
-        "updated_on": 1634345098320
+        "updated_on": 1634405499286
     }
 }

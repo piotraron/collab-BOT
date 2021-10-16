@@ -85,11 +85,14 @@ module.exports = {
                 for (let i = 0; i < keys.length; i++) {
                     let idx = keys[i];
                     if ((idx in owners) && owners[idx].user && owners[idx].user.username != null) {
-                        let username = owners[idx].user.username;
+                        console.log(owners[idx].user)
+                        let user = owners[idx].user.username;
                         let addy = owners[idx].address;
-                        if (args[0].toLowerCase() === username.toLowerCase()) {
-                            address = addy
-                            break;
+                        if (owners[idx].user.username != null) {
+                            if (args[0].toLowerCase() === user.toLowerCase()) {
+                                address = addy
+                                break;
+                            }
                         }
                     } else if ((idx in owners) && owners[idx].address && owners[idx].address.includes(args[0].toLowerCase()) && args[0].length >= 6) {
                         address = owners[idx].address;
