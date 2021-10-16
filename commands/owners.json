@@ -2668,5 +2668,23 @@
         "address": "0xa9d3f26f5b63c8b5d632499ad9dac444d2345daa",
         "config": "",
         "updated_on": 1634405499286
+    },
+    "299": {
+        "user": {
+            "username": "JpegCollector7"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+        "address": "0xa54690caadb09990b51e2b4eeeffc41db6aea7c9",
+        "config": "",
+        "updated_on": 1634412144069
+    },
+    "300": {
+        "user": {
+            "username": "iAM_Edison"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
+        "address": "0x4ce8bdc18e257db9ea29d11e290dfba99431ddd9",
+        "config": "",
+        "updated_on": 1634412130891
     }
 }
