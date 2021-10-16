@@ -6,8 +6,7 @@
         "animation_url": null,
         "name": "iAM #1 Genesis",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380602349411368961",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Genesis",
                 "display_type": null,
@@ -41,8 +40,7 @@
         "animation_url": null,
         "name": "iAM #2 Diamond",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380603448922996737",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -68,8 +66,7 @@
         "animation_url": null,
         "name": "iAM #3",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380604548434624513",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Vampire",
                 "display_type": null,
@@ -95,8 +92,7 @@
         "animation_url": null,
         "name": "iAM #4",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380605647946252289",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -176,8 +172,7 @@
         "animation_url": null,
         "name": "iAM #5 Yellow Mom",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380606747457880065",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -265,8 +260,7 @@
         "animation_url": null,
         "name": "iAM #6 Green",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380607846969507841",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -354,8 +348,7 @@
         "animation_url": null,
         "name": "iAM #7 Uniswap",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380608946481135617",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Magic",
                 "display_type": null,
@@ -459,8 +452,7 @@
         "animation_url": null,
         "name": "iAM #8 Bit",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380610045992763393",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Pixelated",
                 "display_type": null,
@@ -548,8 +540,7 @@
         "animation_url": null,
         "name": "iAM #9 Spicy",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380611145504391169",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -637,8 +628,7 @@
         "animation_url": null,
         "name": "iAM #10 Golden",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380612245016018945",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Golden",
                 "display_type": null,
@@ -718,8 +708,7 @@
         "animation_url": null,
         "name": "iAM #11 darkeness",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380613344527646721",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -815,16 +804,14 @@
         "animation_url": null,
         "name": "iAM #12",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380614444039274497",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Elemental",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 52,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Elemental",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 52,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882380614444039274497",
@@ -880,8 +867,7 @@
         "animation_url": null,
         "name": "iAM #13 Creation",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380615543550902273",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Strange",
                 "display_type": null,
@@ -969,8 +955,7 @@
         "animation_url": null,
         "name": "iAM #14",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380616643062530049",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -1058,8 +1043,7 @@
         "animation_url": null,
         "name": "iAM #15 Beeple",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380617742574157825",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -1101,8 +1085,7 @@
         "animation_url": null,
         "name": "iAM #16 Wax On",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380618842085785601",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -1190,8 +1173,7 @@
         "animation_url": null,
         "name": "iAM #17 Lonk",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380619941597413377",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -1241,8 +1223,7 @@
         "animation_url": null,
         "name": "iAM #18 Casper",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380621041109041153",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Spirit",
                 "display_type": null,
@@ -1322,8 +1303,7 @@
         "animation_url": null,
         "name": "iAM #19",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380622140620668929",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -1395,8 +1375,7 @@
         "animation_url": null,
         "name": "iAM #20 21",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380623240132296705",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -1492,8 +1471,7 @@
         "animation_url": null,
         "name": "iAM #21 Gas Fee",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380624339643924481",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -1565,8 +1543,7 @@
         "animation_url": null,
         "name": "iAM #22 NFT",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380625439155552257",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -1638,8 +1615,7 @@
         "animation_url": null,
         "name": "iAM #23 Bitch Lasagna",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380626538667180033",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -1711,8 +1687,7 @@
         "animation_url": null,
         "name": "iAM #24 7mil",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380627638178807809",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -1808,8 +1783,7 @@
         "animation_url": null,
         "name": "iAM #25 1pun",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380628737690435585",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -1889,8 +1863,7 @@
         "animation_url": null,
         "name": "iAM #26 Freezer",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380629837202063361",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Alien",
                 "display_type": null,
@@ -1970,8 +1943,7 @@
         "animation_url": null,
         "name": "iAM #27 Punk",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380630936713691137",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -2067,8 +2039,7 @@
         "animation_url": null,
         "name": "iAM #28 Meme",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380632036225318913",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -2094,8 +2065,7 @@
         "animation_url": null,
         "name": "iAM #29",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380633135736946689",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -2175,8 +2145,7 @@
         "animation_url": null,
         "name": "iAM #30 Tan Man",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380634235248574465",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -2256,8 +2225,7 @@
         "animation_url": null,
         "name": "iAM #31 Jelly Baby",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380635334760202241",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Jelly",
                 "display_type": null,
@@ -2337,8 +2305,7 @@
         "animation_url": null,
         "name": "iAM #32",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380636434271830017",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -2434,8 +2401,7 @@
         "animation_url": null,
         "name": "iAM #33 Philosophy",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380637533783457793",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Tuft",
                 "display_type": null,
@@ -2515,8 +2481,7 @@
         "animation_url": null,
         "name": "iAM #34",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380638633295085569",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Ape",
                 "display_type": null,
@@ -2588,8 +2553,7 @@
         "animation_url": null,
         "name": "iAM #35",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380639732806713345",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -2631,8 +2595,7 @@
         "animation_url": null,
         "name": "iAM #36",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380640832318341121",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headphones",
                 "display_type": null,
@@ -2720,8 +2683,7 @@
         "animation_url": null,
         "name": "iAM #37",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380641931829968897",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -2809,8 +2771,7 @@
         "animation_url": null,
         "name": "iAM #38",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380643031341596673",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -2914,8 +2875,7 @@
         "animation_url": null,
         "name": "iAM #39",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380644130853224449",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -3011,8 +2971,7 @@
         "animation_url": null,
         "name": "iAM #40",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380645230364852225",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -3100,8 +3059,7 @@
         "animation_url": null,
         "name": "iAM #41 56",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380646329876480001",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Bandana",
                 "display_type": null,
@@ -3135,8 +3093,7 @@
         "animation_url": null,
         "name": "iAM #42 GME",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380647429388107777",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Jewelry",
                 "display_type": null,
@@ -3170,8 +3127,7 @@
         "animation_url": null,
         "name": "iAM #43",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380648528899735553",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -3267,8 +3223,7 @@
         "animation_url": null,
         "name": "iAM #44",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380649628411363329",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headphones",
                 "display_type": null,
@@ -3348,8 +3303,7 @@
         "animation_url": null,
         "name": "iAM #45 Beanie",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380650727922991105",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -3437,8 +3391,7 @@
         "animation_url": null,
         "name": "iAM #46",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380651827434618881",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Curls",
                 "display_type": null,
@@ -3510,8 +3463,7 @@
         "animation_url": null,
         "name": "iAM #47",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380652926946246657",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -3647,8 +3599,7 @@
         "animation_url": null,
         "name": "iAM #49",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380655125969502209",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Vampire",
                 "display_type": null,
@@ -3736,8 +3687,7 @@
         "animation_url": null,
         "name": "iAM #50 Seed",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380656225481129985",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -3849,8 +3799,7 @@
         "animation_url": null,
         "name": "iAM #51 Sour",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380657324992757761",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -3930,8 +3879,7 @@
         "animation_url": null,
         "name": "iAM #52 NFT Girl",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380658424504385537",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -3973,8 +3921,7 @@
         "animation_url": null,
         "name": "iAM #53 Creeper",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380659524016013313",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -4046,8 +3993,7 @@
         "animation_url": null,
         "name": "iAM #54",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380660623527641089",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -4119,8 +4065,7 @@
         "animation_url": null,
         "name": "iAM #55",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380661723039268865",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -4208,8 +4153,7 @@
         "animation_url": null,
         "name": "iAM #56",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380662822550896641",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -4289,16 +4233,14 @@
         "animation_url": null,
         "name": "iAM #57",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380663922062524417",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Elemental",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 52,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Elemental",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 52,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882380663922062524417",
@@ -4354,8 +4296,7 @@
         "animation_url": null,
         "name": "iAM #58 Korra",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380665021574152193",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Jelly",
                 "display_type": null,
@@ -4443,8 +4384,7 @@
         "animation_url": null,
         "name": "iAM #59 Harry",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380666121085779969",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -4524,8 +4464,7 @@
         "animation_url": null,
         "name": "iAM #60 3DPunks",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380668320109035521",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Beanie",
                 "display_type": null,
@@ -4605,8 +4544,7 @@
         "animation_url": null,
         "name": "iAM #61 Chick",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380669419620663297",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -4686,8 +4624,7 @@
         "animation_url": null,
         "name": "iAM #62 Easter",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380670519132291073",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -4759,8 +4696,7 @@
         "animation_url": null,
         "name": "iAM #63 Thunder Mouse",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380671618643918849",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -4840,8 +4776,7 @@
         "animation_url": null,
         "name": "iAM #64 Sausage",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380672718155546625",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -4921,8 +4856,7 @@
         "animation_url": null,
         "name": "iAM #65 Paris",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380673817667174401",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -4964,8 +4898,7 @@
         "animation_url": null,
         "name": "iAM #66",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380674917178802177",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -5053,8 +4986,7 @@
         "animation_url": null,
         "name": "iAM #67",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380676016690429953",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -5142,8 +5074,7 @@
         "animation_url": null,
         "name": "iAM #68",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380677116202057729",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -5223,8 +5154,7 @@
         "animation_url": null,
         "name": "iAM #69 Satoshi",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380678215713685505",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -5298,8 +5228,7 @@
         "animation_url": null,
         "name": "iAM #70",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380679315225313281",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -5371,16 +5300,14 @@
         "animation_url": null,
         "name": "iAM #71",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380680414736941057",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Elemental",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 52,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Elemental",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 52,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882380680414736941057",
@@ -5436,8 +5363,7 @@
         "animation_url": null,
         "name": "iAM #72 Holo",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380681514248568833",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Collaborative",
                 "display_type": null,
@@ -5525,8 +5451,7 @@
         "animation_url": null,
         "name": "iAM #73 Elise",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380682613760196609",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -5614,8 +5539,7 @@
         "animation_url": null,
         "name": "iAM #74 Ripe",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380683713271824385",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -5695,8 +5619,7 @@
         "animation_url": null,
         "name": "iAM #75",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380684812783452161",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -5776,21 +5699,20 @@
         "animation_url": null,
         "name": "iAM #76",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380685912295079937",
-        "traits": [
+        "traits": [{
+                "trait_type": "Class",
+                "value": "Human",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 145,
+                "order": null
+            },
             {
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
                 "max_value": null,
                 "trait_count": 16,
-                "order": null
-            },
-            {
-                "trait_type": "Class",
-                "value": "Human",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 145,
                 "order": null
             }
         ],
@@ -5849,8 +5771,7 @@
         "animation_url": null,
         "name": "iAM #77 Bill",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380687011806707713",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headband",
                 "display_type": null,
@@ -5938,8 +5859,7 @@
         "animation_url": null,
         "name": "iAM #78 Sugar",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380688111318335489",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -6019,8 +5939,7 @@
         "animation_url": null,
         "name": "iAM #79 Fluff",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380689210829963265",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Strange",
                 "display_type": null,
@@ -6108,8 +6027,7 @@
         "animation_url": null,
         "name": "iAM #80",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380690310341591041",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Hoodie",
                 "display_type": null,
@@ -6181,8 +6099,7 @@
         "animation_url": null,
         "name": "iAM #81 Star Ball Ⅰ",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380691409853218817",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Magic",
                 "display_type": null,
@@ -6270,8 +6187,7 @@
         "animation_url": null,
         "name": "iAM #82 Ganbred",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380692509364846593",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Rainbow",
                 "display_type": null,
@@ -6375,8 +6291,7 @@
         "animation_url": null,
         "name": "iAM #83",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380693608876474369",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -6448,8 +6363,7 @@
         "animation_url": null,
         "name": "iAM #84",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380694708388102145",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -6529,8 +6443,7 @@
         "animation_url": null,
         "name": "iAM #85 Pieces",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380695807899729921",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Golden",
                 "display_type": null,
@@ -6618,8 +6531,7 @@
         "animation_url": null,
         "name": "iAM #86",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380696907411357697",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Zombie",
                 "display_type": null,
@@ -6699,8 +6611,7 @@
         "animation_url": null,
         "name": "iAM #87 Youneek",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380698006922985473",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -6780,8 +6691,7 @@
         "animation_url": null,
         "name": "iAM #88 Foresight",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380699106434613249",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Hero",
                 "display_type": null,
@@ -6861,8 +6771,7 @@
         "animation_url": null,
         "name": "iAM #89 Mother",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380700205946241025",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Magic",
                 "display_type": null,
@@ -6950,16 +6859,14 @@
         "animation_url": null,
         "name": "iAM #90",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380701305457868801",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Elemental",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 52,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Elemental",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 52,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882380701305457868801",
@@ -7015,8 +6922,7 @@
         "animation_url": null,
         "name": "iAM #91 Wavy",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380702404969496577",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Strange",
                 "display_type": null,
@@ -7104,8 +7010,7 @@
         "animation_url": null,
         "name": "iAM #92 Duality",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380703504481124353",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -7185,8 +7090,7 @@
         "animation_url": null,
         "name": "iAM #93 Wizard",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380704603992752129",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -7290,8 +7194,7 @@
         "animation_url": null,
         "name": "iAM #94 Solitude",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380705703504379905",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Strange",
                 "display_type": null,
@@ -7379,8 +7282,7 @@
         "animation_url": null,
         "name": "iAM #95",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380706803016007681",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -7460,8 +7362,7 @@
         "animation_url": null,
         "name": "iAM #96",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380707902527635457",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Curls",
                 "display_type": null,
@@ -7557,16 +7458,14 @@
         "animation_url": null,
         "name": "iAM #97",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380709002039263233",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Creature",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 25,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Creature",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 25,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882380709002039263233",
@@ -7622,8 +7521,7 @@
         "animation_url": null,
         "name": "iAM #98",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380710101550891009",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -7719,8 +7617,7 @@
         "animation_url": null,
         "name": "iAM #99 Without",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380711201062518785",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Strange",
                 "display_type": null,
@@ -7800,8 +7697,7 @@
         "animation_url": "https://storage.opensea.io/files/d244ba5a803e6f23616eef2dd3e3174e.mp4",
         "name": "iAM #100 Animated",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380716698620657665",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -7937,8 +7833,7 @@
         "animation_url": null,
         "name": "iAM #101 Neighbor",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380717798132285441",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Magic",
                 "display_type": null,
@@ -8018,8 +7913,7 @@
         "animation_url": null,
         "name": "iAM #102",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380718897643913217",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -8099,8 +7993,7 @@
         "animation_url": null,
         "name": "iAM #103 16Bit",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380719997155540993",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Curls",
                 "display_type": null,
@@ -8196,8 +8089,7 @@
         "animation_url": null,
         "name": "iAM #104 EIP-1559",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380712300574146561",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Holo",
                 "display_type": null,
@@ -8285,8 +8177,7 @@
         "animation_url": null,
         "name": "iAM #105 Harker",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380713400085774337",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -8374,8 +8265,7 @@
         "animation_url": null,
         "name": "iAM #106",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380714499597402113",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -8455,8 +8345,7 @@
         "animation_url": null,
         "name": "iAM #107 Squad",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380715599109029889",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Creature",
                 "display_type": null,
@@ -8552,8 +8441,7 @@
         "animation_url": null,
         "name": "iAM #108 OnlyOnePixel",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380721096667168769",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Tuft",
                 "display_type": null,
@@ -8665,8 +8553,7 @@
         "animation_url": null,
         "name": "iAM #109",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380722196178796545",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Holo",
                 "display_type": null,
@@ -8746,8 +8633,7 @@
         "animation_url": null,
         "name": "iAM #110 Jaqen",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380723295690424321",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -8835,8 +8721,7 @@
         "animation_url": null,
         "name": "iAM #111 Pudgy",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380724395202052097",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -8924,8 +8809,7 @@
         "animation_url": null,
         "name": "iAM #112",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380725494713679873",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -8997,8 +8881,7 @@
         "animation_url": null,
         "name": "iAM #113 Dapper",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380726594225307649",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -9078,8 +8961,7 @@
         "animation_url": null,
         "name": "iAM #114 Orange",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380727693736935425",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -9113,8 +8995,7 @@
         "animation_url": null,
         "name": "iAM #115",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380728793248563201",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Aquatic",
                 "display_type": null,
@@ -9186,8 +9067,7 @@
         "animation_url": null,
         "name": "iAM #116",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380729892760190977",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -9267,8 +9147,7 @@
         "animation_url": null,
         "name": "iAM #117 Grayson",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380730992271818753",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -9372,8 +9251,7 @@
         "animation_url": null,
         "name": "iAM #118",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380734290806702081",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -9453,16 +9331,14 @@
         "animation_url": null,
         "name": "iAM #119",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380735390318329857",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Elemental",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 52,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Elemental",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 52,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882380735390318329857",
@@ -9518,8 +9394,7 @@
         "animation_url": "https://storage.opensea.io/files/de0ad58175c076fcc04e87800d776401.mp4",
         "name": "iAM #120 Dust",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380733191295074305",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Vanishing",
                 "display_type": null,
@@ -9615,8 +9490,7 @@
         "animation_url": null,
         "name": "iAM #121 Wet",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380736489829957633",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Raindrops",
                 "display_type": null,
@@ -9704,8 +9578,7 @@
         "animation_url": null,
         "name": "iAM #122",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380737589341585409",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -9809,8 +9682,7 @@
         "animation_url": null,
         "name": "iAM #123 Blind",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380738688853213185",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Laser",
                 "display_type": null,
@@ -9906,8 +9778,7 @@
         "animation_url": null,
         "name": "iAM #124",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380739788364840961",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -9995,8 +9866,7 @@
         "animation_url": null,
         "name": "iAM #125",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380740887876468737",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headphones",
                 "display_type": null,
@@ -10084,8 +9954,7 @@
         "animation_url": null,
         "name": "iAM #126 Yours",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380741987388096513",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Jelly",
                 "display_type": null,
@@ -10165,8 +10034,7 @@
         "animation_url": null,
         "name": "iAM #127 Super",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380743086899724289",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -10254,8 +10122,7 @@
         "animation_url": null,
         "name": "iAM #128",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380744186411352065",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -10335,8 +10202,7 @@
         "animation_url": null,
         "name": "iAM #129 カオナシ",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380745285922979841",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Magic",
                 "display_type": null,
@@ -10432,16 +10298,14 @@
         "animation_url": null,
         "name": "iAM #130",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380746385434607617",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Alien",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 21,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Alien",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 21,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882380746385434607617",
@@ -10497,8 +10361,7 @@
         "animation_url": null,
         "name": "iAM #131",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380747484946235393",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Mohawk",
                 "display_type": null,
@@ -10570,8 +10433,7 @@
         "animation_url": null,
         "name": "iAM #132",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380748584457863169",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -10651,8 +10513,7 @@
         "animation_url": null,
         "name": "iAM #133",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380749683969490945",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -10724,8 +10585,7 @@
         "animation_url": null,
         "name": "iAM #134",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380750783481118721",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Brain",
                 "display_type": null,
@@ -10813,8 +10673,7 @@
         "animation_url": null,
         "name": "iAM #135",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380751882992746497",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headband",
                 "display_type": null,
@@ -10894,8 +10753,7 @@
         "animation_url": null,
         "name": "iAM #136",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380777171760185345",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -10983,8 +10841,7 @@
         "animation_url": null,
         "name": "iAM #137",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380778271271813121",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -11056,8 +10913,7 @@
         "animation_url": null,
         "name": "iAM #138",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380779370783440897",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -11153,8 +11009,7 @@
         "animation_url": null,
         "name": "iAM #139",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380780470295068673",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -11242,8 +11097,7 @@
         "animation_url": "https://storage.opensea.io/files/b5b5400327db771487749be0744ca79b.mp4",
         "name": "iAM #140 Etra",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380781569806696449",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -11339,8 +11193,7 @@
         "animation_url": null,
         "name": "iAM #141 9-5",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380782669318324225",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -11428,8 +11281,7 @@
         "animation_url": null,
         "name": "iAM #142",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380783768829952001",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Monocle",
                 "display_type": null,
@@ -11517,8 +11369,7 @@
         "animation_url": null,
         "name": "iAM #143",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380784868341579777",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Beanie",
                 "display_type": null,
@@ -11606,8 +11457,7 @@
         "animation_url": null,
         "name": "iAM #144",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380785967853207553",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -11703,8 +11553,7 @@
         "animation_url": null,
         "name": "iAM #145",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380787067364835329",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Jewelry",
                 "display_type": null,
@@ -11784,8 +11633,7 @@
         "animation_url": null,
         "name": "iAM #146",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380788166876463105",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -11873,8 +11721,7 @@
         "animation_url": null,
         "name": "iAM #147",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380789266388090881",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -11954,8 +11801,7 @@
         "animation_url": null,
         "name": "iAM #148",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380790365899718657",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Demon",
                 "display_type": null,
@@ -12027,8 +11873,7 @@
         "animation_url": null,
         "name": "iAM #149",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380791465411346433",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -12124,8 +11969,7 @@
         "animation_url": null,
         "name": "iAM #150 Heisenberg",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380792564922974209",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -12237,8 +12081,7 @@
         "animation_url": null,
         "name": "iAM #151",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380793664434601985",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -12342,8 +12185,7 @@
         "animation_url": null,
         "name": "iAM #152",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380794763946229761",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -12431,8 +12273,7 @@
         "animation_url": null,
         "name": "iAM #153",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380795863457857537",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -12512,8 +12353,7 @@
         "animation_url": null,
         "name": "iAM #154",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380796962969485313",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -12593,8 +12433,7 @@
         "animation_url": null,
         "name": "iAM #155",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380798062481113089",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -12674,8 +12513,7 @@
         "animation_url": null,
         "name": "iAM #156",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380799161992740865",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -12755,8 +12593,7 @@
         "animation_url": null,
         "name": "iAM #157",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380807958085763073",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Jewelry",
                 "display_type": null,
@@ -12852,8 +12689,7 @@
         "animation_url": null,
         "name": "iAM #158 Spaceman",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380809057597390849",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -12941,8 +12777,7 @@
         "animation_url": null,
         "name": "iAM #159",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380810157109018625",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -13030,8 +12865,7 @@
         "animation_url": "https://storage.opensea.io/files/1c394707829bd494c8312f4c0c9e296f.mp4",
         "name": "iAM #160 Uchiha",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380811256620646401",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -13151,8 +12985,7 @@
         "animation_url": null,
         "name": "iAM #161",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380812356132274177",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -13224,8 +13057,7 @@
         "animation_url": null,
         "name": "iAM #162",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380813455643901953",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -13313,8 +13145,7 @@
         "animation_url": null,
         "name": "iAM #163",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380814555155529729",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -13402,8 +13233,7 @@
         "animation_url": null,
         "name": "iAM #164 Star Ball ⅠⅠ",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380815654667157505",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Magic",
                 "display_type": null,
@@ -13491,8 +13321,7 @@
         "animation_url": null,
         "name": "iAM #165",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380816754178785281",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -13604,8 +13433,7 @@
         "animation_url": null,
         "name": "iAM #166",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380817853690413057",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Tuft",
                 "display_type": null,
@@ -13709,8 +13537,7 @@
         "animation_url": null,
         "name": "iAM #167 Edison",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380818953202040833",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -13798,8 +13625,7 @@
         "animation_url": null,
         "name": "iAM #168",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380820052713668609",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -13879,8 +13705,7 @@
         "animation_url": null,
         "name": "iAM #169 High Gas",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380821152225296385",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Fiery",
                 "display_type": null,
@@ -13976,8 +13801,7 @@
         "animation_url": null,
         "name": "iAM #170",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380822251736924161",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -14057,8 +13881,7 @@
         "animation_url": null,
         "name": "iAM #171",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380823351248551937",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -14138,8 +13961,7 @@
         "animation_url": null,
         "name": "iAM #172",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380824450760179713",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -14227,8 +14049,7 @@
         "animation_url": null,
         "name": "iAM #173",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380825550271807489",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Vampire",
                 "display_type": null,
@@ -14324,8 +14145,7 @@
         "animation_url": null,
         "name": "iAM #174",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380826649783435265",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Golden",
                 "display_type": null,
@@ -14397,8 +14217,7 @@
         "animation_url": null,
         "name": "iAM #175",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380827749295063041",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Demon",
                 "display_type": null,
@@ -14502,8 +14321,7 @@
         "animation_url": null,
         "name": "iAM #176 Cheesy",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380828848806690817",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -14599,8 +14417,7 @@
         "animation_url": null,
         "name": "iAM #177",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380829948318318593",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Alien",
                 "display_type": null,
@@ -14688,8 +14505,7 @@
         "animation_url": null,
         "name": "iAM #178",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380831047829946369",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -14777,8 +14593,7 @@
         "animation_url": null,
         "name": "iAM #179",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380832147341574145",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -14890,8 +14705,7 @@
         "animation_url": null,
         "name": "iAM #180",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380833246853201921",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Cigarette",
                 "display_type": null,
@@ -14963,8 +14777,7 @@
         "animation_url": null,
         "name": "iAM #181",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380834346364829697",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Beanie",
                 "display_type": null,
@@ -15052,8 +14865,7 @@
         "animation_url": null,
         "name": "iAM #182",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380835445876457473",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Aquatic",
                 "display_type": null,
@@ -15133,8 +14945,7 @@
         "animation_url": null,
         "name": "iAM #183",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380836545388085249",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -15214,8 +15025,7 @@
         "animation_url": null,
         "name": "iAM #184",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380842042946224129",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Hoodie",
                 "display_type": null,
@@ -15287,8 +15097,7 @@
         "animation_url": null,
         "name": "iAM #185",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380843142457851905",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Creature",
                 "display_type": null,
@@ -15368,8 +15177,7 @@
         "animation_url": null,
         "name": "iAM #186 Empty",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380844241969479681",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Spirit",
                 "display_type": null,
@@ -15455,8 +15263,7 @@
         "animation_url": null,
         "name": "iAM #187",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380851938550874113",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -15560,8 +15367,7 @@
         "animation_url": null,
         "name": "iAM #188",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380853038062501889",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -15657,8 +15463,7 @@
         "animation_url": null,
         "name": "iAM #189",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380854137574129665",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Beanie",
                 "display_type": null,
@@ -15738,8 +15543,7 @@
         "animation_url": null,
         "name": "iAM #190 Shady",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380855237085757441",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -15789,8 +15593,7 @@
         "animation_url": null,
         "name": "iAM #191",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380856336597385217",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -15816,8 +15619,7 @@
         "animation_url": null,
         "name": "iAM #192",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380857436109012993",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Prickly",
                 "display_type": null,
@@ -15905,8 +15707,7 @@
         "animation_url": null,
         "name": "iAM #193",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380858535620640769",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Shades",
                 "display_type": null,
@@ -15994,8 +15795,7 @@
         "animation_url": null,
         "name": "iAM #194",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380859635132268545",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -16075,8 +15875,7 @@
         "animation_url": null,
         "name": "iAM #195 Ape Gang",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380860734643896321",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Rainbow",
                 "display_type": null,
@@ -16212,8 +16011,7 @@
         "animation_url": null,
         "name": "iAM #196",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380867331713662977",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -16309,8 +16107,7 @@
         "animation_url": null,
         "name": "iAM #197",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380868431225290753",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -16398,8 +16195,7 @@
         "animation_url": null,
         "name": "iAM #198",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380869530736918529",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -16479,8 +16275,7 @@
         "animation_url": null,
         "name": "iAM #199",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380969586295046145",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -16568,8 +16363,7 @@
         "animation_url": "https://storage.opensea.io/files/f5b3448f78741b609469898a67419ed0.mp4",
         "name": "iAM #200 AlfDen",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380970685806673921",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -16689,8 +16483,7 @@
         "animation_url": null,
         "name": "iAM #201",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380971785318301697",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -16778,8 +16571,7 @@
         "animation_url": null,
         "name": "iAM #202",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380972884829929473",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -16851,8 +16643,7 @@
         "animation_url": null,
         "name": "iAM #203",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380973984341557249",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -16940,8 +16731,7 @@
         "animation_url": null,
         "name": "iAM #204",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380975083853185025",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headphones",
                 "display_type": null,
@@ -17021,8 +16811,7 @@
         "animation_url": null,
         "name": "iAM #205",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380976183364812801",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Creature",
                 "display_type": null,
@@ -17110,8 +16899,7 @@
         "animation_url": null,
         "name": "iAM #206",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380977282876440577",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -17207,8 +16995,7 @@
         "animation_url": null,
         "name": "iAM #207",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380978382388068353",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -17280,8 +17067,7 @@
         "animation_url": null,
         "name": "iAM #208",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380979481899696129",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Beanie",
                 "display_type": null,
@@ -17353,8 +17139,7 @@
         "animation_url": null,
         "name": "iAM #209",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380980581411323905",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -17458,8 +17243,7 @@
         "animation_url": null,
         "name": "iAM #210 Cookie",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380981680922951681",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -17539,8 +17323,7 @@
         "animation_url": null,
         "name": "iAM #211",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380982780434579457",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -17628,8 +17411,7 @@
         "animation_url": null,
         "name": "iAM #212 Leo",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380983879946207233",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Creature",
                 "display_type": null,
@@ -17725,8 +17507,7 @@
         "animation_url": null,
         "name": "iAM #213",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380984979457835009",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -17806,8 +17587,7 @@
         "animation_url": null,
         "name": "iAM #214",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380986078969462785",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -17895,8 +17675,7 @@
         "animation_url": null,
         "name": "iAM #215",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380987178481090561",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -17976,8 +17755,7 @@
         "animation_url": null,
         "name": "iAM #216",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380988277992718337",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -18089,8 +17867,7 @@
         "animation_url": null,
         "name": "iAM #217 Moon",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380990477015973889",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -18178,8 +17955,7 @@
         "animation_url": null,
         "name": "iAM #218",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380991576527601665",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Tuft",
                 "display_type": null,
@@ -18251,8 +18027,7 @@
         "animation_url": null,
         "name": "iAM #219",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380992676039229441",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -18340,8 +18115,7 @@
         "animation_url": null,
         "name": "iAM #220 Paperhands",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380993775550857217",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Monocle",
                 "display_type": null,
@@ -18445,8 +18219,7 @@
         "animation_url": null,
         "name": "iAM #221",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380994875062484993",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headphones",
                 "display_type": null,
@@ -18526,8 +18299,7 @@
         "animation_url": null,
         "name": "iAM #222",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380995974574112769",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -18607,8 +18379,7 @@
         "animation_url": null,
         "name": "iAM #223",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380997074085740545",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Alien",
                 "display_type": null,
@@ -18680,8 +18451,7 @@
         "animation_url": null,
         "name": "iAM #224",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380998173597368321",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -18761,8 +18531,7 @@
         "animation_url": null,
         "name": "iAM #225",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882380999273108996097",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -18834,8 +18603,7 @@
         "animation_url": null,
         "name": "iAM #226",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381000372620623873",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -18923,8 +18691,7 @@
         "animation_url": null,
         "name": "iAM #227",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381001472132251649",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -19020,8 +18787,7 @@
         "animation_url": null,
         "name": "iAM #228",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381002571643879425",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -19109,8 +18875,7 @@
         "animation_url": null,
         "name": "iAM #229",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381004770667134977",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Crown",
                 "display_type": null,
@@ -19190,8 +18955,7 @@
         "animation_url": null,
         "name": "iAM #230 Suit Up",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381005870178762753",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Tie",
                 "display_type": null,
@@ -19311,8 +19075,7 @@
         "animation_url": null,
         "name": "iAM #231",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381006969690390529",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
@@ -19400,8 +19163,7 @@
         "animation_url": null,
         "name": "iAM #232",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381008069202018305",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Edible",
                 "display_type": null,
@@ -19481,8 +19243,7 @@
         "animation_url": null,
         "name": "iAM #233 Oni",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381009168713646081",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Fangs",
                 "display_type": null,
@@ -19586,8 +19347,7 @@
         "animation_url": null,
         "name": "iAM #234",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381010268225273857",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -19667,21 +19427,20 @@
         "animation_url": null,
         "name": "iAM #235",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381011367736901633",
-        "traits": [
+        "traits": [{
+                "trait_type": "Class",
+                "value": "Human",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 145,
+                "order": null
+            },
             {
                 "trait_type": "Hair",
                 "value": "Long",
                 "display_type": null,
                 "max_value": null,
                 "trait_count": 18,
-                "order": null
-            },
-            {
-                "trait_type": "Class",
-                "value": "Human",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 145,
                 "order": null
             }
         ],
@@ -19740,8 +19499,7 @@
         "animation_url": null,
         "name": "iAM #236",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381012467248529409",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headband",
                 "display_type": null,
@@ -19829,8 +19587,7 @@
         "animation_url": null,
         "name": "iAM #237",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381013566760157185",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -19918,8 +19675,7 @@
         "animation_url": null,
         "name": "iAM #238",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381020163829923841",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -19999,8 +19755,7 @@
         "animation_url": null,
         "name": "iAM #239",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381021263341551617",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Vampire",
                 "display_type": null,
@@ -20088,8 +19843,7 @@
         "animation_url": null,
         "name": "iAM #240",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381022362853179393",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -20177,8 +19931,7 @@
         "animation_url": null,
         "name": "iAM #241",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381023462364807169",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -20266,8 +20019,7 @@
         "animation_url": null,
         "name": "iAM #242",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381024561876434945",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -20347,8 +20099,7 @@
         "animation_url": null,
         "name": "iAM #243 My Axe",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381025661388062721",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -20460,8 +20211,7 @@
         "animation_url": null,
         "name": "iAM #244",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381026760899690497",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -20557,8 +20307,7 @@
         "animation_url": null,
         "name": "iAM #245 gm",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381027860411318273",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Elemental",
                 "display_type": null,
@@ -20654,8 +20403,7 @@
         "animation_url": null,
         "name": "iAM #246",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381028959922946049",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -20735,8 +20483,7 @@
         "animation_url": null,
         "name": "iAM #247",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381030059434573825",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -20832,8 +20579,7 @@
         "animation_url": null,
         "name": "iAM #248",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381031158946201601",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -20921,8 +20667,7 @@
         "animation_url": null,
         "name": "iAM #249",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381032258457829377",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -21010,8 +20755,7 @@
         "animation_url": "https://storage.opensea.io/files/613bbaa16c4000a64441f44c199632ac.mp4",
         "name": "iAM #250 Half",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381035556992712705",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Deformed",
                 "display_type": null,
@@ -21107,8 +20851,7 @@
         "animation_url": null,
         "name": "iAM #251",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381033357969457153",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Anime",
                 "display_type": null,
@@ -21180,8 +20923,7 @@
         "animation_url": null,
         "name": "iAM #252 Charming",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381034457481084929",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Creature",
                 "display_type": null,
@@ -21285,8 +21027,7 @@
         "animation_url": null,
         "name": "iAM #253 32Bit",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381036656504340481",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Pixelated",
                 "display_type": null,
@@ -21374,8 +21115,7 @@
         "animation_url": null,
         "name": "iAM #254",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381037756015968257",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Tail",
                 "display_type": null,
@@ -21463,8 +21203,7 @@
         "animation_url": null,
         "name": "iAM #255",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381038855527596033",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -21552,8 +21291,7 @@
         "animation_url": null,
         "name": "iAM #256",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381039955039223809",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Headband",
                 "display_type": null,
@@ -21641,8 +21379,7 @@
         "animation_url": null,
         "name": "iAM #257",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381041054550851585",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -21730,8 +21467,7 @@
         "animation_url": null,
         "name": "iAM #258 Sick",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381042154062479361",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Demon",
                 "display_type": null,
@@ -21835,8 +21571,7 @@
         "animation_url": null,
         "name": "iAM #260",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381044353085734913",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -21948,8 +21683,7 @@
         "animation_url": null,
         "name": "iAM #261",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381045452597362689",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Tie",
                 "display_type": null,
@@ -22053,8 +21787,7 @@
         "animation_url": null,
         "name": "iAM #262",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381046552108990465",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -22142,8 +21875,7 @@
         "animation_url": null,
         "name": "iAM #263",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381047651620618241",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -22221,8 +21953,7 @@
         "animation_url": null,
         "name": "iAM #264",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381048751132246017",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Alien",
                 "display_type": null,
@@ -22318,8 +22049,7 @@
         "animation_url": "https://storage.opensea.io/files/dd956ea41987fc895db0648e099c9819.mp4",
         "name": "iAM #265 Conduit",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381049850643873793",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Fused",
                 "display_type": null,
@@ -22447,8 +22177,7 @@
         "animation_url": null,
         "name": "iAM #266 Big Red",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381050950155501569",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Magic",
                 "display_type": null,
@@ -22568,8 +22297,7 @@
         "animation_url": null,
         "name": "iAM #267",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381052049667129345",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -22649,8 +22377,7 @@
         "animation_url": null,
         "name": "iAM #268",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381053149178757121",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -22738,8 +22465,7 @@
         "animation_url": null,
         "name": "iAM #269",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381054248690384897",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -22835,8 +22561,7 @@
         "animation_url": null,
         "name": "iAM #270",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381055348202012673",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Mask",
                 "display_type": null,
@@ -22924,8 +22649,7 @@
         "animation_url": null,
         "name": "iAM #271",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381056447713640449",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23013,8 +22737,7 @@
         "animation_url": null,
         "name": "iAM #272",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381057547225268225",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23102,8 +22825,7 @@
         "animation_url": null,
         "name": "iAM #273 Buzzing",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381058646736896001",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Nickname",
                 "display_type": null,
@@ -23191,8 +22913,7 @@
         "animation_url": null,
         "name": "iAM #274",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381059746248523777",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23242,8 +22963,7 @@
         "animation_url": null,
         "name": "iAM #275",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381060845760151553",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23315,8 +23035,7 @@
         "animation_url": null,
         "name": "iAM #276 Art",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381061945271779329",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Deformed",
                 "display_type": null,
@@ -23396,8 +23115,7 @@
         "animation_url": null,
         "name": "iAM #277",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381063044783407105",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23485,8 +23203,7 @@
         "animation_url": null,
         "name": "iAM #278",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381064144295034881",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23582,8 +23299,7 @@
         "animation_url": null,
         "name": "iAM #279",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381065243806662657",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23687,8 +23403,7 @@
         "animation_url": "https://storage.opensea.io/files/53732f1caf32fd74511711244d6f1a39.mp4",
         "name": "iAM #280 Pyro",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381066343318290433",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Animated",
                 "display_type": null,
@@ -23792,8 +23507,7 @@
         "animation_url": null,
         "name": "iAM #281",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381067442829918209",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -23881,8 +23595,7 @@
         "animation_url": null,
         "name": "iAM #282 Aloe",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381068542341545985",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Messy",
                 "display_type": null,
@@ -23978,8 +23691,7 @@
         "animation_url": null,
         "name": "iAM #283",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381069641853173761",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Demon",
                 "display_type": null,
@@ -24067,8 +23779,7 @@
         "animation_url": null,
         "name": "iAM #284 Fair",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381070741364801537",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Mask",
                 "display_type": null,
@@ -24156,8 +23867,7 @@
         "animation_url": null,
         "name": "iAM #285 Meka",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381071840876429313",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Loot",
                 "display_type": null,
@@ -24199,8 +23909,7 @@
         "animation_url": null,
         "name": "iAM #286",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381072940388057089",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Hair",
                 "value": "Buns",
                 "display_type": null,
@@ -24280,8 +23989,7 @@
         "animation_url": null,
         "name": "iAM #287 Become Death",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381074039899684865",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Hoodie",
                 "display_type": null,
@@ -24377,8 +24085,7 @@
         "animation_url": null,
         "name": "iAM #288",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381075139411312641",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -24450,8 +24157,7 @@
         "animation_url": null,
         "name": "iAM #289",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381076238922940417",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -24531,16 +24237,7 @@
         "animation_url": null,
         "name": "iAM #290",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381077338434568193",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Demon",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 14,
-                "order": null
-            },
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Jewelry",
                 "display_type": null,
@@ -24549,19 +24246,11 @@
                 "order": null
             },
             {
-                "trait_type": "Hair",
-                "value": "Bob",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 17,
-                "order": null
-            },
-            {
                 "trait_type": "Accessory",
-                "value": "Tail",
+                "value": "Horns",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 6,
+                "trait_count": 12,
                 "order": null
             },
             {
@@ -24573,11 +24262,27 @@
                 "order": null
             },
             {
-                "trait_type": "Accessory",
-                "value": "Horns",
+                "trait_type": "Hair",
+                "value": "Bob",
                 "display_type": null,
                 "max_value": null,
-                "trait_count": 12,
+                "trait_count": 17,
+                "order": null
+            },
+            {
+                "trait_type": "Class",
+                "value": "Demon",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 14,
+                "order": null
+            },
+            {
+                "trait_type": "Accessory",
+                "value": "Tail",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 6,
                 "order": null
             }
         ],
@@ -24636,8 +24341,7 @@
         "animation_url": null,
         "name": "iAM #291",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381078437946195969",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -24731,16 +24435,14 @@
         "animation_url": null,
         "name": "iAM #292",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381079537457823745",
-        "traits": [
-            {
-                "trait_type": "Class",
-                "value": "Creature",
-                "display_type": null,
-                "max_value": null,
-                "trait_count": 25,
-                "order": null
-            }
-        ],
+        "traits": [{
+            "trait_type": "Class",
+            "value": "Creature",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 25,
+            "order": null
+        }],
         "last_sale": {
             "asset": {
                 "token_id": "42660166192846309205341875090787641074981786816011313725882381079537457823745",
@@ -24796,8 +24498,7 @@
         "animation_url": null,
         "name": "iAM #293 Beep Boop",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381080636969451521",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Quirk",
                 "value": "Glowing",
                 "display_type": null,
@@ -24893,8 +24594,7 @@
         "animation_url": null,
         "name": "iAM #294",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381081736481079297",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -24990,8 +24690,7 @@
         "animation_url": null,
         "name": "iAM #295",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381082835992707073",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Raindrops",
                 "display_type": null,
@@ -25079,8 +24778,7 @@
         "animation_url": null,
         "name": "iAM #296 Player",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381083935504334849",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Hoodie",
                 "display_type": null,
@@ -25130,8 +24828,7 @@
         "animation_url": null,
         "name": "iAM #297",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381085035015962625",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Class",
                 "value": "Human",
                 "display_type": null,
@@ -25227,8 +24924,7 @@
         "animation_url": null,
         "name": "iAM #298",
         "permalink": "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/42660166192846309205341875090787641074981786816011313725882381086134527590401",
-        "traits": [
-            {
+        "traits": [{
                 "trait_type": "Accessory",
                 "value": "Fangs",
                 "display_type": null,
